@@ -300,6 +300,8 @@ defaults:
       comments: # true
       share: # true
       related: true
+      atom_feed: #RSS 삭제
+        hide: true
 
   # _docs
   - scope:
