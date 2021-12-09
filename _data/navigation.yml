@@ -11,10 +11,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  docs:
-   - title: PROGRAMMING
+docs:
+  - title: Getting Started
     children:
-      - title: "C++"
-        url: 
-      - title: "programmers"
-        url:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
