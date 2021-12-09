@@ -16,11 +16,11 @@ minimal_mistakes_skin    :  "dirt"  # "default" , "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "this is title"
+title                    : "MAROOM"
 title_separator          : "-"
-subtitle                 : "this is subtitle" # site tagline that appears below site title in masthead
+subtitle                 : "maro`s tech blog" # site tagline that appears below site title in masthead
 name                     : "Lee Homin"
-description              : "Test Blog"
+description              : "MAROOM"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Lee Homin"
   avatar           : "/assets/images/title_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "게임개발자를 꿈꾸는 소박한 사람의 블로그"
   location         : "Seoul, Korea"
   email            :
   links:
