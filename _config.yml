@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "MAROOM🕹"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lee Homin"
+name                     : "Lee Homin" # 
 description              : "MAROOM"
-url                      : "https://maroomBlog.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -36,7 +36,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+    https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -284,8 +284,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true 
+      date_format: "%Y-%m-%d"
       read_time: # true
       comments: # true
       share: # true
       related: true
-      sidebar_main: true
+
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
