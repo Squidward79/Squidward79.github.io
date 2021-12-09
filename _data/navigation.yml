@@ -15,10 +15,10 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: #/docs/quick-start-guide/
       - title: "Structure"
-        url: /docs/structure/
+        url: #/docs/structure/
       - title: "Installation"
-        url: /docs/installation/
+        url: #/docs/installation/
       - title: "Upgrading"
-        url: /docs/upgrading/
+        url: #/docs/upgrading/

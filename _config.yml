@@ -298,6 +298,3 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-
-sidebar:
-  nav: "docs"
