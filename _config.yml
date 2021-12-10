@@ -127,12 +127,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-#Sidebar
-sidebar:
-  nav: "docs"
-
-
-
 # Site Footer
 footer:
   links:
@@ -296,13 +290,6 @@ defaults:
       comments: # true
       share: # true
       related: true
+      sidebar_main: true
       #atom_feed: #RSS 삭제
       #  hide: true
-
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
