@@ -15,10 +15,13 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+
+  <!--사이드바에 카테고리 메뉴영역 추가-->
+  {% if page.sidebar_main %}
+  {% include nav_list_main %}
+  {% endif %}
+
+
   </div>
 {% endif %}
 
-<!--사이드바에 카테고리 메뉴영역 추가-->
-{% if page.sidebar_main %}
-{% include nav_list_main %}
-{% endif %}
