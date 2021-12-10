@@ -290,6 +290,12 @@ defaults:
       comments: # true
       share: # true
       related: true
-      sidebar_main: true
-      #atom_feed: #RSS 삭제
-      #  hide: true
+
+defaults:
+ # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
