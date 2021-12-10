@@ -292,9 +292,6 @@ defaults:
       related: true
 
  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
+
       sidebar:
         nav: "docs"
