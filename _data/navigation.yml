@@ -12,13 +12,13 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Getting Started
+  - title: C++ 공부
     children:
-      - title: "Quick-Start Guide"
-       # url: #/docs/quick-start-guide/
-      - title: "Structure"
+      - title: "[programmers] 문제풀이"
+        url: /docs/cpp/
+      - title: "2번 메뉴"
        # url: #/docs/structure/
-      - title: "Installation"
+      - title: "3번 메뉴"
        # url: #/docs/installation/
-      - title: "Upgrading"
+      - title: "4번 메뉴"
        # url: #/docs/upgrading/
