@@ -106,11 +106,11 @@ author:
   avatar           : "/assets/images/title_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "게임개발자를 꿈꾸는 사람의 블로그"
   location         : "Seoul, Korea"
-  email            :
+  email            : "ghalsgg99@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:ghalsgg99@naver.com"
+      # url: "mailto:ghalsgg99@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
