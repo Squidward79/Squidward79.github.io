@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "C++ 공부"
+  - title: C++ Study
     children:
       - title: "[programmers] 문제풀이"
         url: /docs/cpp/
