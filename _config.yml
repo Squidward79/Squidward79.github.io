@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Lee Homin"
   avatar           : "/assets/images/title_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "게임개발자를 꿈꾸는 소박한 사람의 블로그"
+  bio              : "게임개발자를 꿈꾸는 사람의 블로그"
   location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ghalsgg99@naver.com"
+       url: "mailto:ghalsgg99@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,19 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://https://github.com/Squidward79"
+      url: "https://github.com/Squidward79"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
-#Sidebar
-sidebar:
-  - title: "Title"
-    #image: http://placehold.it/350x250
-    #image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 
 
 # Site Footer
@@ -300,8 +291,8 @@ defaults:
       comments: # true
       share: # true
       related: true
-      atom_feed: #RSS 삭제
-        hide: true
+      #atom_feed: #RSS 삭제
+      #  hide: true
 
   # _docs
   - scope:
