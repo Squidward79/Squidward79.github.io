@@ -3,7 +3,7 @@ main:
   - title: "test"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Sample Posts"
     url: /year-archive/
   # - title: "Sample Collections"
@@ -15,7 +15,7 @@ docs:
   - title: C++ Study
     children:
       - title: "[programmers] 문제풀이"
-        url: /categories/Cpp
+        url: /categories/Cpp/
       - title: "2번 메뉴"
        # url: #/docs/structure/
       - title: "3번 메뉴"
