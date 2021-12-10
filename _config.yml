@@ -105,7 +105,7 @@ author:
   name             : "Lee Homin"
   avatar           : "/assets/images/title_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "게임개발자를 꿈꾸는 사람의 블로그"
-  location         : "Seoul, Korea"
+  location         : 
   email            : "ghalsgg99@naver.com"
   links:
     - label: "Email"
@@ -126,6 +126,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+#Sidebar
+sidebar:
+  - title: "Title"
+    #image: http://placehold.it/350x250
+    #image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 
 
 # Site Footer
@@ -294,10 +304,10 @@ defaults:
       #atom_feed: #RSS 삭제
       #  hide: true
 
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+  # # _docs
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     sidebar:
+  #       nav: "docs"
