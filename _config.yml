@@ -291,7 +291,6 @@ defaults:
       share: # true
       related: true
 
-defaults:
  # _docs
   - scope:
       path: ""
