@@ -15,7 +15,7 @@ docs:
   - title: C++ Study
     children:
       - title: "[programmers] 문제풀이"
-       # url: /docs/cpp/
+        url: /categories/Cpp
       - title: "2번 메뉴"
        # url: #/docs/structure/
       - title: "3번 메뉴"
