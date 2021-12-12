@@ -22,3 +22,11 @@ docs:
        # url: #/docs/installation/
       - title: "4번 메뉴"
        # url: #/docs/upgrading/
+
+   - title: Game Dev
+    children:
+      - title: "Project-A"
+        url: /categories/Cpp/
+      - title: "과제 프로젝트"
+       # url: #/docs/structure/
+      - title: "3번 메뉴"
