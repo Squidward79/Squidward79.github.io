@@ -275,9 +275,6 @@ compress_html:
     envs: development
 
 
-#Sidebar
-
-
 # Defaults
 defaults:
   # _posts
@@ -288,7 +285,7 @@ defaults:
       layout: single
       author_profile: true
       sidebar:
-        nav: "docs"
+        nav: "sidemenu"
       show_date: true 
       date_format: "%Y-%m-%d"
       read_time: # true

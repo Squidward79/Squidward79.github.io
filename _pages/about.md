@@ -1,10 +1,9 @@
 ---
-layout: home
 permalink: /about/
 title: "About"
 author_profile: true
 sidebar:
-    nav: docs
+    nav: sidemenu
 
 # toc: true
 # toc_sticky: true
