@@ -7,3 +7,6 @@ sidebar:
     nav: sidemenu
 ---
 
+{% for post in site.categories[cpp] %} 
+    {% include archive-single.html type=page.entries_layout %} 
+{% endfor %}
