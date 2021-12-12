@@ -18,19 +18,17 @@
       </div>
     {% endif %}
     <div class="archive__item-title no_toc" itemprop="headline">
-      <span>
+     
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>  <!-- <a href="{{ post.url | relative_url }}" rel="permalink"> -->
-         <!--  <i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
+      <span><a href="{{ post.link }}">{{ title }}</a> </span> <a href="{{ post.url | relative_url }}" rel="permalink">
+         <i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> 
 
       {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      <span> <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a> <span></span>
       {% endif %}
-      </span>
+      
 
-      <span>
-      {% include page__meta.html type=include.type %} 
-      </span>
+      <span> {% include page__meta.html type=include.type %}  </span>
     </div>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
