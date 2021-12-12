@@ -23,7 +23,7 @@ docs:
       - title: "4번 메뉴"
        # url: #/docs/upgrading/
 
-   - title: Game Dev
+  - title: Game Dev
     children:
       - title: "Project-A"
         url: /categories/Cpp/
