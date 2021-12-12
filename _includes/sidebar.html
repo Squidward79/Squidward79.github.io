@@ -14,12 +14,15 @@
 
       <!-- 전체글 갯수 세기-->
     {% assign sum = site.posts | size %}
+    
+      <!-- 방문자수 체크-->
+    <li><br>      
+      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsquidward79.github.io&count_bg=%23E9DCBE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false"/></a>
+    </li>
 
-      <li>
-        ➖ {{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';"> posts in Total</style> 
-            
-        <!-- ➖ <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> -->
-      </li>
+    <li>
+      ➖ <span style="font-family:'Cafe24Oneprettynight';">Total</style>  {{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';"> posts</style> 
+    </li>
 
 
         <!-- 사이드바 메뉴 -->

@@ -1,28 +1,27 @@
 # main links
 main:
-  - title: "test"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "pageArch"
-    url: /page-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tag/
+
 
 sidemenu:
-  - title: C++ Study
+  - title: Study
     children:
       - title: "Coding Test"
         url: /categories/cpp/
-      - title: "2번 메뉴"
+      - title: "C++"
        # url: #/docs/structure/
+      - title: "Mini Project"
+         # url :
 
   - title: Game Dev
     children:
-      - title: "카테고리"
+      - title: "개인 프로젝트"
         url: /categories/
-      - title: "태크"
+      - title: "Project-A"
        # url: /tag/
-      - title: "3번 메뉴"
+
