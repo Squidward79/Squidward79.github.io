@@ -5,7 +5,7 @@ main:
   - title: "Category"
     url: /categories/
   - title: "Tag"
-    url: /tag/
+    url: /tags/
 
 
 sidemenu:
