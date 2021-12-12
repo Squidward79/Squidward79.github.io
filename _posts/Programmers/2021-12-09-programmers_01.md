@@ -1,11 +1,11 @@
 ---
 title:  "[PROGRAMMERS] 로또의 최고 순위와 최저 순위 C++"
-excerpt: "프로그래머스 문제풀이 "
+excerpt: "2021 Dev-Matching - Level 1"
 
 categories:
-  - cpp
+  - [coding test]
 tags:
-  - [CodingTest]
+  - [Coding Test,Level1,C++]
 
 date: 2021-12-09
 
@@ -14,9 +14,15 @@ breadcrumb: true
 
 
 ## 로또의 최고 순위와 최저 순위 
-#### 언어: c++ 
+
+### 레벨 : 1
+### 언어: c++ 
+
+#### [📂문제 보기](https://programmers.co.kr/learn/courses/30/lessons/77484)
 
 ***
+
+
 
 ```c++
 #include <string>
@@ -60,3 +66,5 @@ vector<int> solution(vector<int> lottos, vector<int> win_nums) {
 
 */
 ```
+
+

@@ -12,7 +12,7 @@ sidemenu:
   - title: Study
     children:
       - title: "Coding Test"
-        url: /categories/cpp/
+        url: /categories/coding test/
       - title: "C++"
        # url: #/docs/structure/
       - title: "Mini Project"
