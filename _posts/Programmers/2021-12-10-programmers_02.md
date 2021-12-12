@@ -1,11 +1,11 @@
 ---
-title:  "[PROGRAMMERS] 신규 아이디 추천 C++"
-excerpt: "2021 KAKAO BLIND RECRUITMENT - Level 1 "
+title:  "[C++] 신규 아이디 추천"
+excerpt: "프로그래머스 Level 1"
 
 categories:
-  - coding test
+  - programmers
 tags:
-  - [Coding Test,Level1,C++]
+  - [Coding Test,C++]
 
 date: 2021-12-10
 

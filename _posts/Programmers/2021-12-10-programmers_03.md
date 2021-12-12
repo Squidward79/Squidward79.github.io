@@ -1,12 +1,11 @@
 ---
-title:  "[PROGRAMMERS] 숫자 문자열과 영단어
- C++"
-excerpt: "2021 카카오 채용연계형 인턴십 - Level 1 "
+title:  "[C++] 숫자 문자열과 영단어"
+excerpt: "프로그래머스 Level 1"
 
 categories:
-  - coding test
+  - programmers
 tags:
-  - [Coding Test,Level1,C++]
+  - [Coding Test,C++]
 
 date: 2021-12-10
 

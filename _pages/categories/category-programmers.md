@@ -1,12 +1,12 @@
 ---
-title: "카테고리 테스트"
+title: "프로그래머스"
 layout: archive
-permalink: /categories/test/
+permalink: /categories/programmers/
 author_profile: true
 sidebar:
     nav: sidemenu
 ---
 
-{% assign posts = site.categories["test"] %}
+{% assign posts = site.categories["programmers"] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} 
 {% endfor %}

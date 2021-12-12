@@ -1,12 +1,12 @@
 ---
-title: "C++ 프로그래밍"
+title: "C++ Study"
 layout: archive
-permalink: /categories/coding-test/
+permalink: /categories/cpp/
 author_profile: true
 sidebar:
     nav: sidemenu
 ---
 
-{% assign posts = site.categories["coding test"] %}
+{% assign posts = site.categories["cpp"] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} 
 {% endfor %}
