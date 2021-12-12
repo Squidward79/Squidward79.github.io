@@ -9,7 +9,7 @@ main:
 
 
 sidemenu:
-- title: Coding Test
+  - title: Coding Test
     children:
       - title: "프로그래머스"
         url: /categories/programmers/
