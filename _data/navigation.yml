@@ -25,3 +25,6 @@ sidemenu:
       - title: "Project-A"
        # url: /tag/
 
+# 카테고리 폴더에 category확인.
+# 공백인 부분은 -로 이을것
+#
