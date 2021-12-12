@@ -15,7 +15,7 @@ docs:
   - title: C++ Study
     children:
       - title: "[programmers] 문제풀이"
-        url: /categories/Cpp/
+        url: /categories/cpp/
       - title: "2번 메뉴"
        # url: #/docs/structure/
       - title: "3번 메뉴"
@@ -26,7 +26,7 @@ docs:
   - title: Game Dev
     children:
       - title: "Project-A"
-        url: /categories/Cpp/
+        url: /categories/cpp/
       - title: "과제 프로젝트"
        # url: #/docs/structure/
       - title: "3번 메뉴"
