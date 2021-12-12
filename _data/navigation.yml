@@ -14,14 +14,10 @@ main:
 sidemenu:
   - title: C++ Study
     children:
-      - title: "[programmers] 문제풀이"
+      - title: "Coding Test"
         url: /categories/cpp/
       - title: "2번 메뉴"
        # url: #/docs/structure/
-      - title: "3번 메뉴"
-       # url: #/docs/installation/
-      - title: "4번 메뉴"
-       # url: #/docs/upgrading/
 
   - title: Game Dev
     children:
