@@ -1,7 +1,7 @@
 ---
 title: "C++ 프로그래밍"
 layout: archive
-permalink: categories/Cpp
+permalink: /categories/Cpp
 author_profile: true
 sidebar:
     nav: docs
@@ -9,4 +9,5 @@ sidebar:
 
 
 {% assign posts = site.categories.Cpp %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+    {% for post in posts %} {% include archive-single.html type=page.entries_layout %} 
+    {% endfor %}
