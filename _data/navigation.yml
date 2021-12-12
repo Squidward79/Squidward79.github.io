@@ -17,7 +17,7 @@ sidemenu:
   - title: Study
     children:
       - title: "C++"
-       # url: #/docs/structure/
+        url: /categories/cpp/
       - title: "Mini Project"
          # url :
 
