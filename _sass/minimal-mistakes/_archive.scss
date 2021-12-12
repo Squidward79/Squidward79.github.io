@@ -198,7 +198,7 @@
 
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    font-size: 0.625em;
   }
 
   .page__meta-sep {
@@ -219,7 +219,7 @@
 
     @include breakpoint($medium) {
       display: block;
-      font-size: $type-size-6;
+      font-size: $type-size-7;
     }
   }
 
