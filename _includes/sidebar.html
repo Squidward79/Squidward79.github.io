@@ -11,9 +11,21 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
+
+      <!-- 전체글 갯수 세기-->
+    {% assign sum = site.posts | size %}
+
+      <li>
+            📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
+      </li>
+
+
+        <!-- 사이드바 메뉴 -->
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
+
+
   {% endif %}
   </div>
 {% endif %}
