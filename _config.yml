@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lee Homin" # 
 description              : "MAROOM"
-url                      : "https://Squidward79.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/title_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "게임개발자를 꿈꾸는 사람의 블로그"
   location         : 
-  email            : "ghalsgg99@naver.com"
+  email            : # "ghalsgg99@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,3 +293,7 @@ defaults:
       share: # true
       related: true
 
+
+#site.xxx와 page.xxx의 차이를 명확히 구분하시길 바랍니다. 
+#site.xxx는 _config.yml에서 정의된 변수들이고,
+#page.xxx는 YAML 헤더에서 정의된 변수들입니다.
