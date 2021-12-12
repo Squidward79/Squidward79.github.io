@@ -4,7 +4,7 @@ title:  "[PROGRAMMERS] 숫자 문자열과 영단어
 excerpt: "2021 카카오 채용연계형 인턴십 - Level 1 "
 
 categories:
-  - [coding test]
+  - coding test
 tags:
   - [Coding Test,Level1,C++]
 

@@ -3,7 +3,7 @@ title:  "[PROGRAMMERS] 로또의 최고 순위와 최저 순위 C++"
 excerpt: "2021 Dev-Matching - Level 1"
 
 categories:
-  - [coding test]
+  - coding test
 tags:
   - [Coding Test,Level1,C++]
 
