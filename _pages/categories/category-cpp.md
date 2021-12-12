@@ -1,12 +1,12 @@
 ---
 title: "C++ 프로그래밍"
-layout: archive
+layout: category
 permalink: /categories/cpp/
 author_profile: true
 sidebar:
     nav: sidemenu
 ---
 
-{% for post in site.categories[cpp] %} 
-    {% include archive-single.html type=page.entries_layout %} 
+{% for post in site.categories["cpp"] %} 
+    {% include archive-single2.html type=page.entries_layout %} 
 {% endfor %}

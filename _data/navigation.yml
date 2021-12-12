@@ -21,8 +21,8 @@ sidemenu:
 
   - title: Game Dev
     children:
-      - title: "Project-A"
-       # url: 
-      - title: "과제 프로젝트"
-       # url: #/docs/structure/
+      - title: "카테고리"
+        url: /categories/
+      - title: "태크"
+       # url: /tag/
       - title: "3번 메뉴"
