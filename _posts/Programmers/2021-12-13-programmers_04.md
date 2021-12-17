@@ -21,7 +21,7 @@ breadcrumb: true
 #### [📂문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42889)
 
 ***
-###  🔶 나의 풀이법
+###  🔶 `나의 풀이법`
 
 
 ```c++
@@ -82,7 +82,7 @@ vector<int> solution(int N, vector<int> stages) {
 
 <br>
 
-### 🔶 다른 사람의 풀이
+### 🔶 `다른 사람의 풀이`
 ```c++
 #include <string>
 #include <vector>

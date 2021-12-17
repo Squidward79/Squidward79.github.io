@@ -11,22 +11,27 @@ main:
 sidemenu:
   - title: Coding Test
     children:
-      - title: "프로그래머스"
+      - title: "- 프로그래머스"
         url: /categories/programmers/
 
   - title: Study
     children:
-      - title: "C++"
+      - title: "- C++"
         url: /categories/cpp/
-      - title: "Mini Project"
+      - title: "- Mini Project"
          # url :
 
   - title: Game Dev
     children:
-      - title: "개인 프로젝트"
+      - title: "- 개인 프로젝트"
         url: /categories/
-      - title: "Project-A"
+      - title: "- Project-A"
        # url: /tag/
+
+  - title: ETC
+    children:
+      - title: "- Markdown"
+        url: /categories/etc/
 
 # 카테고리 폴더에 category확인.
 # 공백인 부분은 -로 이을것
