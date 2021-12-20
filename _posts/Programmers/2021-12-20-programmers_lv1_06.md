@@ -12,10 +12,12 @@ date: 2021-12-17
 breadcrumb: true
 ---
 
+<div class="notice--warning" markdown=1>
+ <span>📄 난이도 : 1  </span> 
+ <span>📄 언어 : C++  </span> 
 
- | 난이도 | 언어 |
- | :------: | :----: |
- | 1      | C++  |
+ </div>
+ 
 
 
 #### [📂문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17681?language=cpp) 
