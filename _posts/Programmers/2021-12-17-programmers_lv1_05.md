@@ -1,6 +1,6 @@
 ---
-title:  "[C++] 두 개 뽑아서 더하기"
-excerpt: "프로그래머스 Level 1"
+title:  "[C++풀이] 두 개 뽑아서 더하기"
+excerpt: "프로그래머스 Level 1 _05"
 
 categories:
   - programmers

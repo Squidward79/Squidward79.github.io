@@ -1,6 +1,6 @@
 ---
 title:  "[C++] 실패율"
-excerpt: "프로그래머스 Level 1"
+excerpt: "프로그래머스 Level 1 _04"
 
 categories:
   - programmers
