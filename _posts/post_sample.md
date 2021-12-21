@@ -42,3 +42,9 @@ toc-sticky: true
 --- 
 <br>
 
+
+ <small style ="color:gray;">(문제번호: 00) </small> 
+ {: .text-right}
+
+[TOP](#){: .btn .btn--warning} 
+{: .text-right}

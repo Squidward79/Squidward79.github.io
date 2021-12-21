@@ -78,7 +78,7 @@ int solution(string dartResult) {
 <br>
 
 
- <span style ="color:gray;">(문제번호: 07) </span> 
+  <small style ="color:gray;">(문제번호: 06) </small> 
  {: .text-right}
 
 [TOP](#){: .btn .btn--warning} 

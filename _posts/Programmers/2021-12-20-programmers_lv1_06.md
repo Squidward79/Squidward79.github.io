@@ -132,3 +132,9 @@ vector<string> solution(int n, vector<int> arr1, vector<int> arr2) {
 ```
 
 
+
+ <small style ="color:gray;">(문제번호: 06) </small> 
+ {: .text-right}
+
+[TOP](#){: .btn .btn--warning} 
+{: .text-right}
