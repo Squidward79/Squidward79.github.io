@@ -19,14 +19,14 @@ toc_sticky: true
 - `#include <vector>` 필요
 - 기본적으로 가장 자주 쓰이는 멤버
 
-|      멤버       |          설명           |          예시           |
-| :-------------: | :---------------------: | :---------------------: |
-|    .front()     | 가장 앞에 있는 원소반환 |      v.front()       |
-|     .back()     | 가장 뒤에 있는 원소반환 |       v.back()       |
-|     .size()     |  리스트 내 원소의 갯수  | if ( v.size() == 5 ) |
-|    .empty()     | 빈 리스트라면 true반환  |   if( v.empty() )    |
-| .push_back(sth) |    맨 뒤에 원소 추가    | v.push_back("abc");  |
-|   .pop_back()   |     맨 뒤 원소 삭제     |    v.pop_back();     |
+| 멤버            | 설명                    | 예시                 |
+| :-------------- | :---------------------- | :------------------- |
+| .front()        | 가장 앞에 있는 원소반환 | v.front()            |
+| .back()         | 가장 뒤에 있는 원소반환 | v.back()             |
+| .size()         | 리스트 내 원소의 갯수   | if ( v.size() == 5 ) |
+| .empty()        | 빈 리스트라면 true반환  | if( v.empty() )      |
+| .push_back(sth) | 맨 뒤에 원소 추가       | v.push_back("abc");  |
+| .pop_back()     | 맨 뒤 원소 삭제         | v.pop_back();        |
 
 ## - vector의 삭제 
 - **`erase`**
