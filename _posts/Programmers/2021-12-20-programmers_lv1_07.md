@@ -15,6 +15,7 @@ breadcrumb: true
 <div class="notice--warning" markdown=1>
  <span>📄 난이도 : 1      </span> 
  <span>📄 언어 : C++  </span> 
+  {: .text-left}
  <span style ="color:gray;">(문제번호: 07) </span> 
  {: .text-right}
  </div>
