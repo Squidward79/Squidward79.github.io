@@ -16,8 +16,6 @@ breadcrumb: true
  <span>📄 난이도 : 1      </span> 
  <span>📄 언어 : C++  </span> 
   {: .text-left}
- <span style ="color:gray;">(문제번호: 07) </span> 
- {: .text-right}
  </div>
  
  [📂문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17682?language=cpp) 
@@ -79,6 +77,9 @@ int solution(string dartResult) {
 --- 
 <br>
 
+
+ <span style ="color:gray;">(문제번호: 07) </span> 
+ {: .text-right}
 
 [TOP](#){: .btn .btn--warning} 
 {: .text-right}
