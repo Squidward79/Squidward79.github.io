@@ -14,6 +14,17 @@ toc: true
 toc_sticky: true
 ---
 
+# string
+- `#include <string>` 필요
+- tip: 숫자 1개를 int로 바꾸기 
+  - `char형 숫자1개 - '0'` 을 해주면 해당하는 숫자가 int형으로 나온다!!
+
+
+| 멤버           | 설명                    | 예시      |
+| :------------- | :---------------------- | :-------- |
+| stoi(string s) | string을 int형으로 변환 | stoi() |
+
+
 
 # vector
 - `#include <vector>` 필요
@@ -76,8 +87,31 @@ toc_sticky: true
     sort(v.begin(), v.end(), cmpFunction ); //비교함수가 있다면 원하는대로 정렬
   ```
 
+# find
+  - `#include<alghrithm>` 필요
+  - 컨테이너 내에서 특정한 값을 찾아낼 때 사용한다.
+  ```c++
+    template <class InputIterator, class T>
+    InputIterator find(InputIterator first, InputIterator last, const T& val);
+  ```
+  - `first`  
+    탐색을 시작할 위치
+  - `last`  
+    탐색의 마지막 지점
+  - `val`  
+    탐색할 원소의 내용   
+
+   - **return값**  
+    `val`을 탐색하고, 존재하는 첫번째 값의 iterator를 반환한다. 없을 경우, last의 값을 반환한다.
 
 
 # 순열과 조합
 
 # 비트연산
+
+# 홀수 찾기 
+ ```c++
+  int n;
+  string str = n & 1 ? "Odd" : "Even";
+  // & 1 연산으로 홀수를 찾아내는 스킬 아주 쓸만하다. 기억해두자.
+ ```
