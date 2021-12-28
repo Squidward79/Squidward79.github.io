@@ -13,7 +13,7 @@ breadcrumb: true
 ---
 
 <div class="notice--warning" markdown=1>
- <span>📄 난이도 : 1   </span> &nbsp &nbsp &nbsp &nbsp
+ <span>📄 난이도 : 1   </span> 
  <span>📄 언어 : C++  </span> 
  </div>
  

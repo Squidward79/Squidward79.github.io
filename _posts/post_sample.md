@@ -15,7 +15,7 @@ toc-sticky: true
 ---
 
 <div class="notice--warning" markdown=1>
- <span>📄 난이도 : 1      </span> 
+ <span>📄 난이도 : 🟠🟠      </span> 
  <span>📄 언어 : C++  </span> 
 
  </div>
@@ -44,7 +44,7 @@ toc-sticky: true
 
 
 
-  <small style ="color:gray;">(문제번호: 00) </small> 
+  <small style ="color:gray;">(post-code: categories_sub_01) </small> 
  {: .text-right}
 
 [TOP](#){: .btn .btn--warning} 
