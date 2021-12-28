@@ -13,6 +13,9 @@ sidemenu:
     children:
       - title: "- 프로그래머스"
         url: /categories/programmers/
+    children:
+      - title: "- 알고리즘"
+        url: /catogories/algorithm/
 
   - title: Study
     children:

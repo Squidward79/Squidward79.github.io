@@ -105,6 +105,14 @@ toc_sticky: true
     `val`을 탐색하고, 존재하는 첫번째 값의 iterator를 반환한다. 없을 경우, last의 값을 반환한다.
 
 
+# max_element
+  - `#include<alghrithm>` 필요
+  - 컨테이너 내에서 최대값을 찾아낼 때 사용한다.
+  - `max_element(v.begin(), v.end())` 꼴로 사용
+
+  - **return값**
+    리턴은 iterator를 반환하므로 실제 값을 찾아내려면 `*max_element(~~)` 형태로 써주면 된다!
+
 # 순열과 조합
 
 # 비트연산
