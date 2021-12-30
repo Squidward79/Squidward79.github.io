@@ -107,11 +107,19 @@ toc_sticky: true
 
 # max_element
   - `#include<alghrithm>` 필요
-  - 컨테이너 내에서 최대값을 찾아낼 때 사용한다.
+  - 컨테이너 내에서 최댓값을 찾아낼 때 사용한다.
   - `max_element(v.begin(), v.end())` 꼴로 사용
 
   - **return값**
     리턴은 iterator를 반환하므로 실제 값을 찾아내려면 `*max_element(~~)` 형태로 써주면 된다!
+
+# min_element
+- `#include<alghrithm>` 필요
+- 컨테이너 내에서 최솟값을 찾아낼 때 사용한다.
+- `min_element(v.begin(), v.end())` 꼴로 사용
+
+- **return값**
+리턴은 iterator를 반환하므로 실제 값을 찾아내려면 `*min_element(~~)` 형태로 써주면 된다!
 
 # 순열과 조합
 
