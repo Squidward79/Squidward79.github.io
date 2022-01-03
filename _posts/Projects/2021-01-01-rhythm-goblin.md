@@ -29,18 +29,6 @@ toc: true
 # 🔸 플레이 영상
 {% include video id="lzYth33_Kc0" provider="youtube" %}
 
- 
-<div>
-<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
-<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
-</div>
-<div>
-<img width="700" src = "https://user-images.githubusercontent.com/45874696/67137791-b8617180-f275-11e9-890e-8b008cb76b08.png">
-</div>
-<div>
-<img width="700" src = "https://user-images.githubusercontent.com/45874696/147935240-45ed77fa-7d57-4442-b7c3-72aac84b2c58.png">
-</div>
-
 ---
 
 # 🔸 게임 설명 
@@ -82,6 +70,20 @@ toc: true
 차선책으로 엔진 내에서 플레이상태로 음악을 틀어두고 버튼을 누르면 노트를 생성하는 코드를 작성하여 역으로 노트를 찍어낸 뒤 음악에 맞춰 흘러나오도록 구현하였습니다. 
 
   
+
+# 🔸 스크린 샷
+ 
+<div>
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
+</div>
+<div>
+<img width="700" src = "https://user-images.githubusercontent.com/45874696/67137791-b8617180-f275-11e9-890e-8b008cb76b08.png">
+</div>
+<div>
+<img width="700" src = "https://user-images.githubusercontent.com/45874696/147935240-45ed77fa-7d57-4442-b7c3-72aac84b2c58.png">
+</div>
+
 
 <small style ="color:gray;">(post-code: return-to-company) </small> 
  {: .text-right}
