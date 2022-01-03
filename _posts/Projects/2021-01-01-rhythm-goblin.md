@@ -43,7 +43,7 @@ toc: true
 
 ---
 
-# 🔸게임 설명 
+# 🔸 게임 설명 
 
 <div>
 <img width="700" src = "https://user-images.githubusercontent.com/45874696/147933958-88ca044f-6744-4aa2-a516-4fe57a474da4.png">
