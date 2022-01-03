@@ -10,18 +10,18 @@ html {
   background-color: $background-color;
   font-size: 16px;
 
-// 전체적인 폰트 사이즈를 조절
+// <수정>전체적인 폰트 사이즈를 조절
 
   @include breakpoint($medium) {
-    font-size: 16px;
+    font-size: 17px;
   }
 
   @include breakpoint($large) {
-    font-size: 18px;
+    font-size: 19px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px;
+    font-size: 19px;
   }
 
   -webkit-text-size-adjust: 100%;
