@@ -25,10 +25,10 @@ sidemenu:
 
   - title: Game Dev
     children:
-      - title: "- 개인 프로젝트"
-        url: /categories/
-      - title: "- Project-A"
-       # url: /tag/
+      - title: "- 게임 프로젝트"
+        url: /categories/gamedev/
+      - title: "- PROJECT-A"
+        url: /categories/project-a/
 
   - title: ETC
     children:
