@@ -7,8 +7,6 @@ categories:
 tags:
   - [Unity, GameDev]
 
-date: 2022-01-03
-
 breadcrumb: true
 toc: true
 
@@ -26,11 +24,11 @@ toc: true
  --- 
 
 <div>
-<img width="450" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
-<img width="450" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
  </div> <div>
-<img width="450" src = "https://user-images.githubusercontent.com/45874696/67117452-b4a20080-f21d-11e9-9ac3-dd4f007dd41d.JPG">
-<img width="450" src = "https://user-images.githubusercontent.com/45874696/67117455-b4a20080-f21d-11e9-8e58-60527ce76e52.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117452-b4a20080-f21d-11e9-9ac3-dd4f007dd41d.JPG">
+<img width="350" src = "https://user-images.githubusercontent.com/45874696/67117455-b4a20080-f21d-11e9-8e58-60527ce76e52.JPG">
 </div>
 
 ---
