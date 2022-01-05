@@ -221,11 +221,10 @@ figure {
   iframe,
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
-    margin-top: 1em;
   }
 
   img {
-    width: 50%;
+    width: 100%;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
@@ -360,18 +359,3 @@ input[type="submit"],
 }
 
 
-
-
-/*
-   수정!  Custom
-   ========================================================================== */
-
-
-   .custom-img
-   {
-      width: 400px;
-      display: inline;
-      margin-top: 0.7em;
-      margin-bottom: 0.7em;
-   
-   }
