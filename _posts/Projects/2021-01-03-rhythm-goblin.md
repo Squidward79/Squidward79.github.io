@@ -1,6 +1,6 @@
 ---
 title:  "[게임개발] Rhythm Goblin"
-excerpt: "2D리듬액션 / 유니티"
+excerpt: "2D리듬액션 / 유니티 / 02"
 
 categories:
   - gamedev
@@ -78,14 +78,14 @@ toc: true
 ## 🔸 스크린 샷
  
 <div>
-<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
-<img width="350" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
+<img width="450" src = "https://user-images.githubusercontent.com/45874696/67118145-478f6a80-f21f-11e9-869b-74eb4ffba136.png">
+<img width="450" src = "https://user-images.githubusercontent.com/45874696/67118007-f7180d00-f21e-11e9-84a9-bf43f23d6254.png">
 </div>
 <div>
-<img width="700" src = "https://user-images.githubusercontent.com/45874696/67137791-b8617180-f275-11e9-890e-8b008cb76b08.png">
+<img width="900" src = "https://user-images.githubusercontent.com/45874696/67137791-b8617180-f275-11e9-890e-8b008cb76b08.png">
 </div>
 <div>
-<img width="700" src = "https://user-images.githubusercontent.com/45874696/147935240-45ed77fa-7d57-4442-b7c3-72aac84b2c58.png">
+<img width="900" src = "https://user-images.githubusercontent.com/45874696/147935240-45ed77fa-7d57-4442-b7c3-72aac84b2c58.png">
 </div>
 
 
