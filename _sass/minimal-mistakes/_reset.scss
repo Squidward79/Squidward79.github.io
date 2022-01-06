@@ -120,11 +120,11 @@ img {
   height: auto; /* part 2: Scale the height according to the width, otherwise you get stretching*/
 
   vertical-align: middle;
-  border: 1;
+  border: 0;
   -ms-interpolation-mode: bicubic;
 
-  margin-bottom: 0.7em;
-  margin-top: 0.7em;
+  margin-bottom: 0.9em;
+  margin-top: 0.9em;
 }
 
 /* Prevent max-width from affecting Google Maps */
