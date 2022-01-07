@@ -9,12 +9,11 @@ main:
 
 
 sidemenu:
-  - title: Coding Test
+
+  - title: Game Dev
     children:
-      - title: "- 프로그래머스"
-        url: /categories/programmers/
-      - title: "- 알고리즘"
-        url: /categories/algorithm/
+      - title: "- 게임 프로젝트"
+        url: /categories/gamedev/
 
   - title: Study
     children:
@@ -23,12 +22,12 @@ sidemenu:
       - title: "- Mini Project"
          # url :
 
-  - title: Game Dev
+  - title: Coding Test
     children:
-      - title: "- 게임 프로젝트"
-        url: /categories/gamedev/
-      - title: "- PROJECT-A"
-        url: /categories/project-a/
+      - title: "- 프로그래머스"
+        url: /categories/programmers/
+      - title: "- 알고리즘"
+        url: /categories/algorithm/
 
   - title: ETC
     children:
