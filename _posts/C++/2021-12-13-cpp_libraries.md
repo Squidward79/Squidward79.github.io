@@ -23,6 +23,8 @@ toc_sticky: true
 | 멤버           | 설명                    | 예시      |
 | :------------- | :---------------------- | :-------- |
 | stoi(string s) | string을 int형으로 변환 | stoi() |
+| toupper(string s) | 전부 대문자로 변환 | toupper("ASDF") |
+| tolower(string s) | 전부 소문자로 변환 | stoi() |
 
 
 
@@ -121,6 +123,31 @@ toc_sticky: true
 - **return값**
 리턴은 iterator를 반환하므로 실제 값을 찾아내려면 `*min_element(~~)` 형태로 써주면 된다!
 
+# transform
+- `#include<alghrithm>` 필요
+- 컨테이너들을 특정 방식으로 변환하는 함수이다. (ex. string 전체를 대,소문자로 변환)
+- 
+```c++
+transform(begin, end, d_begin, unary_op);
+```
+- `begin`
+  시작지점
+- `end`
+  종료지점
+- `d_begin`
+  변환 결과를 저장할 곳
+- `unary_op`
+  변환 방식을 결정
+
+  예시)
+  ```c++
+  transform(s.begin(),s.end(),s.begin(), ::tolower);
+
+  s의 시작부터 끝까지, 소문자로 변환하여(::tolower) 처음 위치에 덮어쓴다.
+  
+  대문자로 변환할 경우 ::toupper
+  ```
+
 # 순열과 조합
 
 # 비트연산
@@ -131,3 +158,10 @@ toc_sticky: true
   string str = n & 1 ? "Odd" : "Even";
   // & 1 연산으로 홀수를 찾아내는 스킬 아주 쓸만하다. 기억해두자.
  ```
+
+
+   <small style ="color:gray;">(포스트번호: cpp_libraries) </small> 
+ {: .text-right}
+
+[TOP](#){: .btn .btn--warning} 
+{: .text-right}
