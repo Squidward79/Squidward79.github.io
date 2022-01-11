@@ -29,12 +29,9 @@ toc_sticky: true
     template <class InputIterator, class T>
     InputIterator find(InputIterator first, InputIterator last, const T& val);
   ```
-  - `first`  
-    탐색을 시작할 위치
-  - `last`  
-    탐색의 마지막 지점
-  - `val`  
-    탐색할 원소의 내용   
+  - `first`      탐색을 시작할 위치
+  - `last`      탐색의 마지막 지점
+  - `val`      탐색할 원소의 내용   
 
    - **return값**  
     `val`을 탐색하고, 존재하는 첫번째 값의 iterator를 반환한다. 없을 경우, last의 값을 반환한다.
@@ -56,31 +53,26 @@ toc_sticky: true
 - **return값**
 리턴은 iterator를 반환하므로 실제 값을 찾아내려면 `*min_element(~~)` 형태로 써주면 된다!
 
+
+
 # transform
 - `#include<alghrithm>` 필요
 - 컨테이너들을 특정 방식으로 변환하는 함수이다. (ex. string 전체를 대,소문자로 변환)
-- 
+  
 ```c++
 transform(begin, end, d_begin, unary_op);
 ```
-- `begin`
-  시작지점
-- `end`
-  종료지점
-- `d_begin`
-  변환 결과를 저장할 곳
-- `unary_op`
-  변환 방식을 결정
+- `begin`    시작지점
+- `end`    종료지점
+- `d_begin`    변환 결과를 저장할 곳
+- `unary_op`    변환 방식을 결정
 
   예시)
   ```c++
   transform(s.begin(),s.end(),s.begin(), ::tolower);
-
-  s의 시작부터 끝까지, 소문자로 변환하여(::tolower) 처음 위치에 덮어쓴다.
-  
-  대문자로 변환할 경우 ::toupper
   ```
-
+  s의 시작부터 끝까지, 소문자로 변환하여(::tolower) 처음 위치에 덮어쓴다.
+  대문자로 변환할 경우 ::toupper
 
 <br>
 <small style ="color:gray;">(포스트번호: cpp_libraries) </small> 
