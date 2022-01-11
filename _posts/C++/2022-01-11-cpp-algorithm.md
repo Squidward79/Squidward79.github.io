@@ -82,7 +82,8 @@ transform(begin, end, d_begin, unary_op);
   ```
 
 
-   <small style ="color:gray;">(포스트번호: cpp_libraries) </small> 
+<br>
+<small style ="color:gray;">(포스트번호: cpp_libraries) </small> 
  {: .text-right}
 
 [TOP](#){: .btn .btn--warning} 
