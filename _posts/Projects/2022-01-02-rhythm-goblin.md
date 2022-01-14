@@ -1,6 +1,6 @@
 ---
 title:  "[게임개발] Rhythm Goblin"
-excerpt: "2D리듬액션 / 유니티 / 02"
+excerpt: "2D리듬액션 / 유니티 / 학교 프로젝트 / 02"
 
 categories:
   - gamedev

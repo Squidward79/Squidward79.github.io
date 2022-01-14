@@ -1,6 +1,6 @@
 ---
 title:  "[게임개발] Return to Company"
-excerpt: "2D플랫포머 / 유니티 / 안드로이드 / 01"
+excerpt: "2D플랫포머 / 유니티 / 유니티공부 / 01"
 
 categories:
   - gamedev

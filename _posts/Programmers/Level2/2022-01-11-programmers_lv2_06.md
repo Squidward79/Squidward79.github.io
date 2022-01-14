@@ -1,6 +1,6 @@
 ---
 title:  "[C++풀이] [1차]캐시"
-excerpt: "프로그래머스 Level 2"
+excerpt: "프로그래머스 Level 2 / LRU알고리즘"
 
 categories:
   - programmers
