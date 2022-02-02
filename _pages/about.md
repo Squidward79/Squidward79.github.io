@@ -1,13 +1,12 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: true
-sidebar:
-    nav: sidemenu
 
-# toc: true
-# toc_sticky: true
-# toc_label: "MYSELF"
+class: wide 
+
+header:
+  image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 
