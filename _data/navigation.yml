@@ -20,7 +20,7 @@ sidemenu:
       - title: "- C++"
         url: /categories/cpp/
       - title: "- Mini Project"
-         # url :
+        url : /categories/mini-project/
 
   - title: Coding Test
     children:
