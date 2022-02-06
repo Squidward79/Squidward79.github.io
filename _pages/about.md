@@ -20,6 +20,7 @@ intro:
 
 feature_row:
   - image_path: /assets/images/alone_logo.png
+    image_size: 150
     alt: "alone image"
     title: "Alone"
     excerpt: "PROJECT-A 첫번째 게임 
@@ -29,6 +30,7 @@ feature_row:
     btn_class: "btn--warning" 
 
   - image_path: /assets/images/thefins_logo.png
+    image_size: 150
     alt: "thefins image"
     title: "The Fins"
     excerpt: "PROJECT-A 두번째 게임"
@@ -37,6 +39,7 @@ feature_row:
     btn_class: "btn--warning"
 
   - image_path: /assets/images/daydream_logo.png
+    image_size: 150
     alt: "daydream Image"
     title: "DayDream"
     excerpt: "PROJECT-A 세번째 게임"
