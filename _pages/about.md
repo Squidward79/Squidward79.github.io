@@ -23,7 +23,7 @@ feature_row:
     alt: "thefins image"
     title: "The Fins"
     excerpt: "PROJECT-A 첫번째 게임"
-    url: "#test-link"
+    url: "#daydream"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
@@ -39,7 +39,7 @@ feature_row:
     alt: "daydream Image"
     title: "DayDream"
     excerpt: "PROJECT-A 세번째 게임"
-    url: "#test-link"
+    url: "#daydream"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
 
