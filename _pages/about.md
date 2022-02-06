@@ -79,7 +79,7 @@ feature_row4:
 
 <h1> GAME PROJECTS </h1>
 
-{% include feature_row}
+{% include feature_row %}
 
 
 
