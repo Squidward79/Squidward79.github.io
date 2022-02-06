@@ -22,8 +22,8 @@ feature_row:
   - image_path: /assets/images/alone_logo.png
     alt: "alone image"
     title: "Alone"
-    excerpt: "PROJECT-A 첫번째 게임"
-    url: "#daydream"
+    excerpt: "PROJECT-A 첫번째 게임 </br> 기획 및 개발 "
+    url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
@@ -31,7 +31,7 @@ feature_row:
     alt: "thefins image"
     title: "The Fins"
     excerpt: "PROJECT-A 두번째 게임"
-    url: "#test-link"
+    url: "/thefins/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
 
@@ -39,7 +39,7 @@ feature_row:
     alt: "daydream Image"
     title: "DayDream"
     excerpt: "PROJECT-A 세번째 게임"
-    url: "#daydream"
+    url: "/daydream/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
 
@@ -51,7 +51,7 @@ feature_row2:
   - image_path: /assets/images/alone_logo.png
     alt: "thefins image"
     title: "The Fins"
-    excerpt: "PROJECT-A 첫번째 게임"
+    excerpt: "더 많은 게임 프로젝트"
     url: "/daydream/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
@@ -79,11 +79,15 @@ feature_row4:
 
 <h1> GAME PROJECTS </h1>
 
+{% include feature_row}
+
+
+
+
+<h1> MORE PROJECTS </h1>
+
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
-
-
-<h1> STUDY PROJECTS </h1>
+{% include feature_row id="feature_row4" type="left" %}
