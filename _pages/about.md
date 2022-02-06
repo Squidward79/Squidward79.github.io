@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 
+layout: default
+
 class: wide 
 
 header:
