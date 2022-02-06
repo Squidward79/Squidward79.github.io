@@ -22,7 +22,8 @@ feature_row:
   - image_path: /assets/images/alone_logo.png
     alt: "alone image"
     title: "Alone"
-    excerpt: "PROJECT-A 첫번째 게임 </br> 기획 및 개발 "
+    excerpt: "PROJECT-A 첫번째 게임 
+     기획 및 개발 "
     url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
