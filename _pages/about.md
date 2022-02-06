@@ -19,15 +19,15 @@ intro:
   - excerpt: '포트폴리오 인트로 페이지를 위한 테스트 자막 '
 
 feature_row:
-  - image_path: /assets/images/alone_logo.jpg
+  - image_path: /assets/images/alone_logo.png
     alt: "thefins image"
     title: "The Fins"
     excerpt: "PROJECT-A 첫번째 게임"
     url: "#test-link"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
-    
-  - image_path: /assets/images/thefins_logo.jpg
+
+  - image_path: /assets/images/thefins_logo.png
     alt: "thefins image"
     title: "The Fins"
     excerpt: "PROJECT-A 두번째 게임"
@@ -35,7 +35,7 @@ feature_row:
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
 
-  - image_path: /assets/images/daydream_logo.jpg
+  - image_path: /assets/images/daydream_logo.png
     alt: "daydream Image"
     title: "DayDream"
     excerpt: "PROJECT-A 세번째 게임"
