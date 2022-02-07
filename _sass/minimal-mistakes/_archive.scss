@@ -322,7 +322,7 @@
     @include breakpoint($small) {
       .archive__item-teaser {
         float: left;
-        //width: span(5 of 12); <수정>
+        width: span(5 of 12);
       }
 
       .archive__item-body {
@@ -365,7 +365,7 @@
 
       .archive__item-teaser {
         float: right;
-        //width: span(5 of 12); <수정>
+        width: span(5 of 12);
       }
 
       .archive__item-body {
