@@ -185,6 +185,9 @@ body {
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
 
+    width: 100%;
+    min-height: 300px;
+
     a {
       color: #fff;
     }
@@ -222,7 +225,7 @@ body {
 
 .page__hero-image {
   width: 100%;
-  height: 300px;
+  height: auto;
   -ms-interpolation-mode: bicubic;
 }
 
