@@ -89,9 +89,10 @@ feature_row2:
     alt: "final project iamge"
     title: "졸업작품 프로젝트"
     excerpt: |
-      혼합현실 환경에서 가상 MIDI악기를 연주하는 프로그램입니다.   
-      Vive Pro를 사용하였으며 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다.
-      악기를 연주를 하면 발생하는 파티클이 현실공간과 부딫혀 상호작용합니다. 모바일 어플리케이션과 합주도 가능합니다.   
+      현실과 가상공간이 섞인 혼합현실(Mixed Reality) 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램입니다.   
+      Vive Pro와 Unity, Android로 개발하였으며 크게 공간인식, 악기연주, 상호작용으로 구분됩니다.
+      우선 Vive의 depth카메라를 통해 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다. 그런 다음 눈앞에 놓여진 가상의 악기를 컨트롤러를 이용해 연주하게 되면 발생하는 오디오 파형에 맞춰 공간에 파티클 이펙트가 발생합니다. 이 파티클 이펙트는 현실 기반으로 생성된 Mesh와 충돌하여 상호작용하여 실제 공간에 3D 파티클이 부딪히는 것처럼 느껴지게 됩니다. 
+      포톤 서버를 이용하여 모바일 어플리케이션과 동시에 합주도 가능합니다.   
     #url: "#test-link"
     #btn_label: "자세히 보기"
     #btn_class: "btn--warning"
@@ -103,8 +104,9 @@ feature_row3:
     alt: "raycasting image"
     title: "RayCasting 구현 프로그램"
     excerpt: |
-      RayCasting으로 구현한, 단층촬영 이미지를 3D모델로 만드는 프로그램입니다.    
-      3D모델의 투명도를 조절하여 피부와 그 내부의 뼈를 볼 수 있고, 모델을 회전시킬 수 있습니다.   
+      RayCasting으로 구현한, 단층촬영 이미지를 3D모델로 만드는 프로그램입니다. 
+      C++와 OpenGL로 작성하였으며 이미지 렌더링을 위한 노말, 투명도, 컬러 계산 등을 구현하였습니다.   
+      3D모델의 투명도를 조절하여 피부와 그 내부의 뼈를 볼 수 있고, 모델을 회전시키는 기능이 있습니다.   
     url: /mini-project/raycasting-program/
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
@@ -114,8 +116,9 @@ feature_row4:
     alt: "cuda image"
     title: "CUDA 병렬프로그래밍"
     excerpt: |
-      GPU와 CPU의 영상처리 성능비교를 위해 GPU쪽은 CUDA로 프로그래밍한 프로젝트입니다.   
-      주행 동영상의 차선검출 알고리즘으로 비교를 진행하였고 CPU에 비해 GPU를 사용할 경우 약 20배의 성능향상을 확인할 수 있었습니다. 
+      GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트입니다.   
+      고속도로 주행 동영상의 차선검출 알고리즘으로 비교를 진행하였고 GPU의 병렬 프로그래밍은 NVIDIA사의 CUDA를 사용하였습니다.  
+      그 결과 해당 알고리즘을 처리하는데에는 CPU에 비해 GPU가 약 20배의 성능차이를 보임을 확인할 수 있었습니다. 
     url: https://github.com/Squidward79/Parallel-programming
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
