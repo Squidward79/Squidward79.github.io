@@ -6,10 +6,7 @@ date: 2022-02-06
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  video:
-    id: O40OlmlFcp4
-    provider: youtube
+  overlay_filter: "0.3"
   overlay_image: /assets/images/games-gif.gif
   #  - label: "Learn More"
   #    url: "/terms/"
