@@ -222,6 +222,7 @@ body {
 
 .page__hero-image {
   width: 100%;
+  min-height: 300; //<수정> min-height 추가
   height: auto;
   -ms-interpolation-mode: bicubic;
 }
