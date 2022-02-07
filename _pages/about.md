@@ -25,7 +25,7 @@ feature_row:
     alt: "alone image"
     title: "Alone"
     excerpt: |
-      PROJECT-A 
+      PROJECT-A  
       2018 제작
 
 
@@ -37,7 +37,7 @@ feature_row:
     alt: "thefins image"
     title: "The Fins"
     excerpt: |
-      PROJECT-A
+      PROJECT-A  
       2019 제작
     url: "/thefins/"
     btn_label: "자세히 보기"
@@ -47,7 +47,7 @@ feature_row:
     alt: "daydream Image"
     title: "DayDream"
     excerpt: |
-      PROJECT-A
+      PROJECT-A  
       2020 제작
     url: "/daydream/"
     btn_label: "자세히 보기"
@@ -57,16 +57,19 @@ feature_row:
     alt: "marvelron Image"
     title: "마블론 - 던전과 용병들"
     excerpt: |
-      PROJECT-A
+      PROJECT-A  
       2021 ~ 개발중!
 
-  - image_path: /assets/images/a_logo.png
-    alt: "projecta image"
-    title: "More Games"
-    excerpt: "그 외의 다른 게임 프로젝트들"
-    url: "categories/gamedev/"
-    btn_label: "자세히 보기"
-    btn_class: "btn--warning" 
+  - image_path: https://user-images.githubusercontent.com/45874696/152754350-072f94c9-73c9-4d9a-a770-2513c994dfb0.png
+    alt: "firegame image"
+    title: "火炎焱燚"
+    excerpt: |
+      CAPCOM 인턴십 프로그램   
+      2020 제작 
+
+    #url: "categories/gamedev/"
+    #btn_label: "자세히 보기"
+    #btn_class: "btn--warning" 
 
 
 
