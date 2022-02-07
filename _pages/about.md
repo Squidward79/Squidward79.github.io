@@ -16,7 +16,8 @@ excerpt: |
   Lee Homin 입니다.
 
 intro: 
-  - excerpt: '포트폴리오 인트로 페이지를 위한 테스트 자막 '
+  - excerpt: |
+    
 
 feature_row:
   - image_path: /assets/images/alone_logo.png
@@ -68,6 +69,16 @@ feature_row:
     url: "/firegame/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
+
+  - image_path: /assets/images/a_logo.png
+    alt: "more Image"
+    title: "More Games"
+    excerpt: |
+      그 외 개발에 참여했던  
+      게임들의 모음입니다.
+    url: "/categories/gamedev/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning"
 
 
 
