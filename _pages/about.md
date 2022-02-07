@@ -47,7 +47,9 @@ feature_row:
   - image_path: /assets/images/daydream_logo.png
     alt: "daydream Image"
     title: "DayDream"
-    excerpt: "PROJECT-A 네번째 게임 \n 개발중.."
+    excerpt: |
+      PROJECT-A 네번째 게임  
+      개발중..
 
 
 
