@@ -31,7 +31,6 @@ feature_row:
       PROJECT-A  
       2018 제작
 
-
     url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
