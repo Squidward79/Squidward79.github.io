@@ -12,15 +12,14 @@ header:
   #    url: "/terms/"
   #caption: "캡션달기"
 
-excerpt: |
+excerpt: |+
   프로그래머 Lee Homin 입니다.  
-    
-      
-        
-          
-          
-          
-  ㅁㄴㅇㄹ
+
+
+
+
+
+  .
 
 intro: 
   - title: "경험과 도전은 언제나 즐거운 일이라고 생각합니다."
