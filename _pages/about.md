@@ -5,13 +5,12 @@ permalink: /about/
 date: 2022-02-06
 
 header:
-  #overlay_color: "#e9dcbe"
+  overlay_color: "#000"
   overlay_filter: "0.5"
   video:
     id: O40OlmlFcp4
     provider: youtube
-  #overlay_image: /assets/images/projecta_logo.png
-  #actions:
+  overlay_image: /assets/images/games-gif.gif
   #  - label: "Learn More"
   #    url: "/terms/"
   #caption: "캡션달기"
