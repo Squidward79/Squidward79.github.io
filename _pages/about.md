@@ -25,7 +25,9 @@ feature_row:
     alt: "alone image"
     title: "Alone"
     excerpt: |
-      기획 및 개발 담당
+      PROJECT-A 
+      2018 제작
+
 
     url: "/alone/"
     btn_label: "자세히 보기"
@@ -34,7 +36,9 @@ feature_row:
   - image_path: /assets/images/thefins_logo.png
     alt: "thefins image"
     title: "The Fins"
-    excerpt: "PROJECT-A 두번째 게임"
+    excerpt: |
+      PROJECT-A
+      2019 제작
     url: "/thefins/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
@@ -42,7 +46,9 @@ feature_row:
   - image_path: /assets/images/daydream_logo.png
     alt: "daydream Image"
     title: "DayDream"
-    excerpt: "PROJECT-A 세번째 게임"
+    excerpt: |
+      PROJECT-A
+      2020 제작
     url: "/daydream/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
@@ -51,14 +57,14 @@ feature_row:
     alt: "marvelron Image"
     title: "마블론 - 던전과 용병들"
     excerpt: |
-      PROJECT-A 네번째 게임  
-      현재 개발중..!!
+      PROJECT-A
+      2021 ~ 개발중!
 
   - image_path: /assets/images/a_logo.png
     alt: "projecta image"
-    title: "More Game"
+    title: "More Games"
     excerpt: "그 외의 다른 게임 프로젝트들"
-    url: "/gamedev/"
+    url: "categories/gamedev/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 

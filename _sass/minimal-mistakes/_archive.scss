@@ -74,7 +74,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-5; //<수정> 글자크기 키움7->5
+  font-size: $type-size-6; //<수정> 글자크기 키움7->6
 
   & + p {
     text-indent: 0;
@@ -219,7 +219,7 @@
 
     @include breakpoint($medium) {
       display: block;
-      font-size: $type-size-5; //<수정> 글씨 키움
+      font-size: $type-size-6; //<수정> 글씨 키움
     }
   }
 
@@ -256,7 +256,7 @@
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(3 of 12);
+    width: span(4 of 16);
 
     &:nth-child(4n + 1) {
       clear: both;
