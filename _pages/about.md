@@ -24,8 +24,9 @@ feature_row:
   - image_path: /assets/images/alone_logo.png
     alt: "alone image"
     title: "Alone"
-    excerpt: "PROJECT-A 첫번째 게임 
-     기획 및 개발 "
+    excerpt: |
+      기획 및 개발 담당
+
     url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
@@ -70,9 +71,9 @@ feature_row2:
     alt: "final project iamge"
     title: "졸업작품 프로젝트"
     excerpt: |
-      혼합현실 환경에서 가상 MIDI악기를 연주하는 프로그램입니다. 
-      Vive Pro를 사용하였으며 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다. 
-      악기를 연주를 하면 발생하는 파티클이 현실공간과 부딫혀 상호작용합니다. 모바일 어플리케이션과 합주도 가능합니다.
+      혼합현실 환경에서 가상 MIDI악기를 연주하는 프로그램입니다.   
+      Vive Pro를 사용하였으며 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다.
+      악기를 연주를 하면 발생하는 파티클이 현실공간과 부딫혀 상호작용합니다. 모바일 어플리케이션과 합주도 가능합니다.   
     #url: "#test-link"
     #btn_label: "자세히 보기"
     #btn_class: "btn--warning"
@@ -84,8 +85,8 @@ feature_row3:
     alt: "raycasting image"
     title: "RayCasting 구현 프로그램"
     excerpt: |
-      RayCasting으로 구현한, 단층촬영 이미지를 3D모델로 만드는 프로그램입니다. 
-      3D모델의 투명도를 조절하여 피부와 그 내부의 뼈를 볼 수 있고, 모델을 회전시킬 수 있습니다.
+      RayCasting으로 구현한, 단층촬영 이미지를 3D모델로 만드는 프로그램입니다.    
+      3D모델의 투명도를 조절하여 피부와 그 내부의 뼈를 볼 수 있고, 모델을 회전시킬 수 있습니다.   
     url: /mini-project/raycasting-program/
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
@@ -95,8 +96,8 @@ feature_row4:
     alt: "cuda image"
     title: "CUDA 병렬프로그래밍"
     excerpt: |
-      GPU와 CPU의 영상처리 성능비교를 위해 GPU쪽은 CUDA로 프로그래밍한 프로젝트입니다. 
-      주행 동영상의 차선검출 알고리즘으로 비교를 진행하였고 CPU에 비해 GPU를 사용할 경우 약 20배의 성능향상을 확인할 수 있었습니다.
+      GPU와 CPU의 영상처리 성능비교를 위해 GPU쪽은 CUDA로 프로그래밍한 프로젝트입니다.   
+      주행 동영상의 차선검출 알고리즘으로 비교를 진행하였고 CPU에 비해 GPU를 사용할 경우 약 20배의 성능향상을 확인할 수 있었습니다. 
     #url: /mini-project/raycasting-program/
     #btn_label: "자세히 보기"
     #btn_class: "btn--warning"
