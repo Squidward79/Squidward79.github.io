@@ -7,7 +7,7 @@ date: 2022-02-06
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/games.mov
+  overlay_image: /assets/images/games-gif.gif
   #  - label: "Learn More"
   #    url: "/terms/"
   #caption: "캡션달기"
@@ -88,7 +88,7 @@ feature_row2:
 
 
 feature_row3:
-  - image_path: https://user-images.githubusercontent.com/45874696/67154388-9bd93e00-f336-11e9-980f-8054df29ede0.png
+  - image_path: https://user-images.githubusercontent.com/45874696/67154377-50269480-f336-11e9-91c2-0dad29a50bc0.png
     alt: "raycasting image"
     title: "RayCasting 구현 프로그램"
     excerpt: |
