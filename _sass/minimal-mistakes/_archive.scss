@@ -265,28 +265,28 @@
 
     &:nth-child(4n + 2) {
       clear: none;
-      margin-left: gutter(of 12);
+      margin-left: gutter(of 16);
     }
 
     &:nth-child(4n + 3) {
       clear: none;
-      margin-left: gutter(of 12);
+      margin-left: gutter(of 16);
     }
 
     &:nth-child(4n + 4) {
       clear: none;
-      margin-left: gutter(of 12);
+      margin-left: gutter(of 16);
     }
 
     .feature__item-teaser {
-      max-height: 200px;
+      max-height: 170px;
       overflow: hidden;
     }
   }
 
   .archive__item-body {
-    padding-left: gutter(1 of 12);
-    padding-right: gutter(1 of 12);
+    padding-left: gutter(1 of 16);
+    padding-right: gutter(1 of 16);
   }
 
   a.btn::before {
