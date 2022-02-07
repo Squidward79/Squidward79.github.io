@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "게임으로 즐거움을 전하고 싶은"
 layout: splash
 permalink: /about/
 date: 2022-02-06
 
 header:
-  overlay_color: "#333"
+  overlay_color: "#e9dcbe"
   #overlay_filter: "0.5"
   #overlay_image: /assets/images/projecta_logo.png
   actions:
@@ -13,7 +13,9 @@ header:
       url: "/terms/"
   #caption: "캡션달기"
 
-excerpt: "게임으로 즐거움을 주고싶은 개발자"
+excerpt: |
+  Lee Homin 입니다.
+
 
 intro: 
   - excerpt: '포트폴리오 인트로 페이지를 위한 테스트 자막 '
