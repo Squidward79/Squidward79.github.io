@@ -95,9 +95,9 @@ feature_row4:
     excerpt: |
       GPU와 CPU의 영상처리 성능비교를 위해 GPU쪽은 CUDA로 프로그래밍한 프로젝트입니다. 
       주행 동영상의 차선검출 알고리즘으로 비교를 진행하였고 CPU에 비해 GPU를 사용할 경우 약 20배의 성능향상을 확인할 수 있었습니다.
-    url: /mini-project/raycasting-program/
-    btn_label: "자세히 보기"
-    btn_class: "btn--warning"
+    #url: /mini-project/raycasting-program/
+    #btn_label: "자세히 보기"
+    #btn_class: "btn--warning"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -107,10 +107,10 @@ feature_row4:
 {% include feature_row %}
 
 
-
-
 <h1> MORE PROJECTS </h1>
+
+{% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
