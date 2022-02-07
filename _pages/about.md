@@ -13,11 +13,16 @@ header:
   #caption: "캡션달기"
 
 excerpt: |
-  Lee Homin 입니다.
+  프로그래머 Lee Homin 입니다.
 
 intro: 
   - excerpt: |
-    
+    게임을 만드는 것, 하는 것 모두 즐겨합니다.
+    새로운 것을 경험하고 도전하는 것은 언제나 즐거운 일이라고 생각합니다.
+
+    2017년부터 프로그래밍을 배우기 시작해 꾸준히 게임개발에 배운 것을 적용하려 노력 중입니다.
+    현재는 PROJECT-A라는 2인 게임개발팀을 만들어 4년째 매년 작은 게임 프로젝트를 진행하고 있습니다.
+    게임개발은 주로 Unity와 C#을 활용하였고, 엔진 위에서 간단한 개발툴을 만들어 활용하기도 하였습니다.
 
 feature_row:
   - image_path: /assets/images/alone_logo.png
