@@ -14,12 +14,12 @@ header:
 
 excerpt: |+
   프로그래머 Lee Homin 입니다.  
-
-
-
-
-
-  .
+    
+    
+    
+    
+    
+  .  
 
 intro: 
   - title: "경험과 도전은 언제나 즐거운 일이라고 생각합니다."

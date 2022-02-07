@@ -256,22 +256,34 @@
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(4 of 16);
+    width: span(4 of 20);
 
-    &:nth-child(4n + 1) {
+    &:nth-child(5n + 1) {
       clear: both;
       margin-left: 0;
     }
 
-    &:nth-child(4n + 2) {
+    &:nth-child(5n + 2) {
       clear: none;
-      margin-left: gutter(of 16);
+      margin-left: gutter(of 20);
     }
 
-    &:nth-child(4n + 3) {
+    &:nth-child(5n + 3) {
       clear: none;
-      margin-left: gutter(of 16);
+      margin-left: gutter(of 20);
     }
+
+    &:nth-child(5n + 4) {
+      clear: none;
+      margin-left: gutter(of 20);
+    }
+
+    &:nth-child(5n + 5) {
+      clear: none;
+      margin-left: gutter(of 20);
+    }
+
+    
 
 
     .feature__item-teaser {
@@ -281,8 +293,8 @@
   }
 
   .archive__item-body {
-    padding-left: gutter(1 of 16);
-    padding-right: gutter(1 of 16);
+    padding-left: gutter(1 of 20);
+    padding-right: gutter(1 of 20);
   }
 
   a.btn::before {
