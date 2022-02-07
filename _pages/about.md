@@ -7,7 +7,7 @@ date: 2022-02-06
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/games-gif.gif
+  overlay_image: /assets/images/games.mov
   #  - label: "Learn More"
   #    url: "/terms/"
   #caption: "캡션달기"
