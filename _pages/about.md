@@ -81,7 +81,7 @@ feature_row2:
 
 
 feature_row3:
-  - image_path: https://user-images.githubusercontent.com/45874696/67154395-ce833680-f336-11e9-8548-ac0d983bfce1.png
+  - image_path: https://user-images.githubusercontent.com/45874696/67154388-9bd93e00-f336-11e9-980f-8054df29ede0.png
     alt: "raycasting image"
     title: "RayCasting 구현 프로그램"
     excerpt: |
