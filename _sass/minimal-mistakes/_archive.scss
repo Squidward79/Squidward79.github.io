@@ -256,25 +256,30 @@
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(2 of 12);
+    width: span(3 of 12);
 
-    &:nth-child(3n + 1) {
+    &:nth-child(4n + 1) {
       clear: both;
       margin-left: 0;
     }
 
-    &:nth-child(3n + 2) {
+    &:nth-child(4n + 2) {
       clear: none;
       margin-left: gutter(of 12);
     }
 
-    &:nth-child(3n + 3) {
+    &:nth-child(4n + 3) {
+      clear: none;
+      margin-left: gutter(of 12);
+    }
+
+    &:nth-child(4n + 4) {
       clear: none;
       margin-left: gutter(of 12);
     }
 
     .feature__item-teaser {
-      max-height: 150px;
+      max-height: 200px;
       overflow: hidden;
     }
   }
@@ -322,7 +327,7 @@
     @include breakpoint($small) {
       .archive__item-teaser {
         float: left;
-        width: span(2 of 12);
+        width: span(4 of 12);
       }
 
       .archive__item-body {
