@@ -5,8 +5,11 @@ permalink: /about/
 date: 2022-02-06
 
 header:
-  overlay_color: "#e9dcbe"
+  #overlay_color: "#e9dcbe"
   overlay_filter: "0.5"
+  video:
+    id: O40OlmlFcp4
+    provider: youtube
   #overlay_image: /assets/images/projecta_logo.png
   #actions:
   #  - label: "Learn More"
@@ -15,7 +18,6 @@ header:
 
 excerpt: |
   Lee Homin 입니다.
-
 
 intro: 
   - excerpt: '포트폴리오 인트로 페이지를 위한 테스트 자막 '
