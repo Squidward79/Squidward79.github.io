@@ -19,7 +19,7 @@ toc_sticky: true
     
 <h3><a href = "https://github.com/Squidward79/RayCasting_program/blob/master/RayCast.cpp"> Raycasting Program - Github 저장소 </a></h3>
 
-## 프로그램 사진
+### ◼ 프로그램 사진
 
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/45874696/67154388-9bd93e00-f336-11e9-980f-8054df29ede0.png" alt="first" width="250"/>

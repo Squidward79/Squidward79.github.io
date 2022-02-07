@@ -6,11 +6,11 @@ date: 2022-02-06
 
 header:
   overlay_color: "#e9dcbe"
-  #overlay_filter: "0.5"
+  overlay_filter: "0.5"
   #overlay_image: /assets/images/projecta_logo.png
-  actions:
-    - label: "Learn More"
-      url: "/terms/"
+  #actions:
+  #  - label: "Learn More"
+  #    url: "/terms/"
   #caption: "캡션달기"
 
 excerpt: |
@@ -91,7 +91,7 @@ feature_row3:
     btn_class: "btn--warning"
 
 feature_row4:
-  - image_path: https://user-images.githubusercontent.com/45874696/67154395-ce833680-f336-11e9-8548-ac0d983bfce1.png
+  - image_path: https://user-images.githubusercontent.com/45874696/67154576-acd77e80-f339-11e9-819b-c423a81bdf43.png
     alt: "cuda image"
     title: "CUDA 병렬프로그래밍"
     excerpt: |
