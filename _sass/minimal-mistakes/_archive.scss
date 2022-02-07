@@ -266,22 +266,22 @@
 
     &:nth-child(5n + 2) {
       clear: none;
-      margin-left: gutter(of 30);
+      margin-left: gutter(of 40);
     }
 
     &:nth-child(5n + 3) {
       clear: none;
-      margin-left: gutter(of 30);
+      margin-left: gutter(of 40);
     }
 
     &:nth-child(5n + 4) {
       clear: none;
-      margin-left: gutter(of 30);
+      margin-left: gutter(of 40);
     }
 
     &:nth-child(5n + 5) {
       clear: none;
-      margin-left: gutter(of 30);
+      margin-left: gutter(of 40);
     }
 
 
@@ -292,8 +292,8 @@
   }
 
   .archive__item-body {
-    padding-left: gutter(1 of 30);
-    padding-right: gutter(1 of 30);
+    padding-left: gutter(1 of 40);
+    padding-right: gutter(1 of 40);
   }
 
   a.btn::before {

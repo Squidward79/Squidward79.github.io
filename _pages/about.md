@@ -131,7 +131,7 @@ feature_row3:
     excerpt: |
       RayCasting으로 구현한, 단층촬영 이미지를 3D모델로 만드는 프로그램입니다. C++와 OpenGL로 작성하였으며 이미지 렌더링을 위한 노말, 투명도, 컬러 계산 등을 구현하였습니다. 3D모델의 투명도를 조절하여 피부와 그 내부의 뼈를 볼 수 있고, 모델을 회전시키는 기능이 있습니다.   
 
-    url: /mini-project/raycasting-program/
+    url: https://github.com/Squidward79/RayCasting_program
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
 
