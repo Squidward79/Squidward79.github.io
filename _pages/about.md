@@ -55,7 +55,7 @@ feature_row:
 
   - image_path: /assets/images/marvelron_logo.png
     alt: "marvelron Image"
-    title: "마블론 - 던전과 용병들"
+    title: "마블론"
     excerpt: |
       PROJECT-A  
       2021 ~ 개발중!
@@ -67,9 +67,9 @@ feature_row:
       CAPCOM 인턴십 프로그램   
       2020 제작 
 
-    #url: "categories/gamedev/"
-    #btn_label: "자세히 보기"
-    #btn_class: "btn--warning" 
+    url: "/firegame/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
 
 
 
