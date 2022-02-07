@@ -257,7 +257,7 @@
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(4 of 20);
+    width: span(5 of 20);
 
     &:nth-child(5n + 1) {
       clear: both;
@@ -279,16 +279,11 @@
       margin-left: gutter(of 20);
     }
 
-    &:nth-child(5n + 5) {
-      clear: none;
-      margin-left: gutter(of 20);
-    }
-
     
 
 
     .feature__item-teaser {
-      max-height: 170px;
+      max-height: 150px;
       overflow: hidden;
     }
   }

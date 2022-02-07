@@ -14,11 +14,11 @@ header:
 
 excerpt: |+
   프로그래머 Lee Homin 입니다.  
-    
-    
-    
-    
-  ㅁ  
+  .    
+  .    
+  .    
+  .    
+  ㅁ    
   .  
 
 intro: 
