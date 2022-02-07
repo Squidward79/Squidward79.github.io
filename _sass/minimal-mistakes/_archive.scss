@@ -279,6 +279,11 @@
       margin-left: gutter(of 20);
     }
 
+    &:nth-child(5n + 5) {
+      clear: none;
+      margin-left: gutter(of 20);
+    }
+
     
 
 
