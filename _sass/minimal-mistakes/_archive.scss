@@ -257,7 +257,7 @@
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(4 of 25);
+    width: span(3 of 20);
 
     &:nth-child(5n + 1) {
       clear: both;
@@ -266,22 +266,22 @@
 
     &:nth-child(5n + 2) {
       clear: none;
-      margin-left: gutter(of 25);
+      margin-left: gutter(of 20);
     }
 
     &:nth-child(5n + 3) {
       clear: none;
-      margin-left: gutter(of 25);
+      margin-left: gutter(of 20);
     }
 
     &:nth-child(5n + 4) {
       clear: none;
-      margin-left: gutter(of 25);
+      margin-left: gutter(of 20);
     }
 
     &:nth-child(5n + 5) {
       clear: none;
-      margin-left: gutter(of 25);
+      margin-left: gutter(of 20);
     }
 
 
@@ -292,8 +292,8 @@
   }
 
   .archive__item-body {
-    padding-left: gutter(1 of 25);
-    padding-right: gutter(1 of 25);
+    padding-left: gutter(1 of 30);
+    padding-right: gutter(1 of 30);
   }
 
   a.btn::before {
