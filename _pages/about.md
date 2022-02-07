@@ -45,6 +45,8 @@ feature_row:
     url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
+    image_align: center
+
 
   - image_path: /assets/images/thefins_logo.png
     alt: "thefins image"
@@ -55,6 +57,8 @@ feature_row:
     url: "/thefins/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
+    image_align: center
+
 
   - image_path: /assets/images/daydream_logo.png
     alt: "daydream Image"
@@ -65,6 +69,8 @@ feature_row:
     url: "/daydream/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
+    image_align: center
+
 
   - image_path: /assets/images/marvelron_logo.png
     alt: "marvelron Image"
@@ -72,6 +78,9 @@ feature_row:
     excerpt: |
       PROJECT-A  
       2021 ~ 개발중!
+
+    image_align: center
+    
 
   - image_path: https://user-images.githubusercontent.com/45874696/152754350-072f94c9-73c9-4d9a-a770-2513c994dfb0.png
     alt: "firegame image"
@@ -83,6 +92,7 @@ feature_row:
     url: "/firegame/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
+    image_align: center
 
   - image_path: /assets/images/a_logo.png
     alt: "more Image"
@@ -94,6 +104,7 @@ feature_row:
     url: "/categories/gamedev/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
+    image_align: center
 
 
 
