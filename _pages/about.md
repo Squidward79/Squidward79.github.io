@@ -14,6 +14,10 @@ header:
 
 excerpt: |
   프로그래머 Lee Homin 입니다.
+  sdfasdf
+  sadfsadfasdf
+  sadfasdfd
+  asdfsdf
 
 intro: 
   - title: "새로운 것을 경험하고 도전하는 것은 언제나 즐거운 일이라고 생각합니다."
