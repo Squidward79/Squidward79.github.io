@@ -30,19 +30,21 @@ excerpt: |+2
 intro: 
   - title: "경험과 도전은 언제나 의미있는 것이라 생각합니다."
     class: wide
-    excerpt: |
+    excerpt: |+
       2017년부터 프로그래밍을 배우기 시작해 꾸준히 게임개발에 배운 것을 적용하려 노력 중입니다.  
       현재는 PROJECT-A라는 2인 게임개발팀으로 4년째 매년 여름 작은 게임 프로젝트를 진행하고 있습니다.   
       매번 만드는 게임은 그간 해보지 않았던 도전적인 시도들을 하며 성장하고자 하고 있습니다.      
-      게임개발은 주로 Unity와 C#을 활용하였고, 엔진 위에서 간단한 개발툴을 만들어 활용하기도 하였습니다.  
-      .
-      새로운 것을 경험하기 위해 보드게임부터 콘솔 모바일 가리지 않고 다양한 분야의 게임을 접하려고 합니다.  
-      또 업계 뉴스를 관심있게 보거나 G-star, 인벤게임컨퍼런스, BIC, BIT SUMMIT 등 여러 게임 행사에 방문해  
+      게임개발은 주로 Unity와 C#을 활용하였고, 엔진 위에서 간단한 개발툴을 만들어 활용하기도 하였습니다.    
+      .    
+      새로운 것을 경험하기 위해 보드게임부터 콘솔 모바일 가리지 않고 다양한 분야의 게임을 접하려고 합니다.    
+      또 업계 뉴스를 관심있게 보거나 G-star, 인벤게임컨퍼런스, BIC, BIT SUMMIT 등 여러 게임 행사에 방문해   
       게임 개발자분들의 강연을 듣고 이야기를 나누며 게임 개발에 관한 것을 보고 듣고 있습니다.
 
 
 feature_row:
-  - image_path: /assets/images/alone_logo.png
+ 
+# 첫번째 줄 
+ - image_path: /assets/images/alone_logo.png
     alt: "alone image"
     title: "Alone"
     excerpt: |
@@ -89,6 +91,7 @@ feature_row:
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
+#두번째 줄
   - image_path: /assets/images/rhythmgoblin_logo.png
     alt: "goblin image"
     title: "리듬 고블린"
