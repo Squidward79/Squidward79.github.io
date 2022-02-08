@@ -15,7 +15,7 @@ header:
 excerpt: |+2
   프로그래머 <b>Lee Homin</b> 입니다.      
   .                   
-  제가 개발에 참여한 게임으로   
+  개발에 참여하여 탄생한 게임으로   
   사람들에게 즐거움을 전할 수 있다면   
   그것이 바로 저의 행복입니다    
   .   
@@ -44,7 +44,7 @@ intro:
 feature_row:
  
 # 첫번째 줄 
- - image_path: /assets/images/alone_logo.png
+  - image_path: /assets/images/alone_logo.png
     alt: "alone image"
     title: "Alone"
     excerpt: |
@@ -59,7 +59,7 @@ feature_row:
     title: "The Fins"
     excerpt: |
       PROJECT-A  
-      전략디펜스 / 2019 
+      전략디펜스 / 2019  
     url: "/thefins/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
