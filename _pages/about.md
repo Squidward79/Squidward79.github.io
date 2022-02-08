@@ -82,7 +82,7 @@ feature_row:
     image_align: center
     
 
-  - image_path: https://user-images.githubusercontent.com/45874696/152754350-072f94c9-73c9-4d9a-a770-2513c994dfb0.png
+  - image_path: /assets/images/firegame_logo.png
     alt: "firegame image"
     title: "火炎焱燚"
     excerpt: |
