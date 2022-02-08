@@ -10,7 +10,7 @@ tags:
 breadcrumb: true
 
 toc: true
-
+permalink: /rhythmgoblin/
 ---
 
 <div class="notice--warning" markdown=1>

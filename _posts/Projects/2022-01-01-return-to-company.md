@@ -9,7 +9,7 @@ tags:
 
 breadcrumb: true
 toc: true
-
+permalink: /returntocompany/
 ---
 
 <div class="notice--warning" markdown=1>

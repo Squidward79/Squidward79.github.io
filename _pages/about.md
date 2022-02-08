@@ -13,21 +13,23 @@ header:
   #caption: "캡션달기"
 
 excerpt: |+2
-  프로그래머 Lee Homin 입니다. 
-          
+  프로그래머 Lee Homin 입니다.   
+              
+    
   제가 개발에 참여한 게임으로   
   사람들에게 즐거움을 전할 수 있다면   
   그것이 바로 저의 행복입니다.  
+     
     
   제가 추구하는 가치는 세가지 입니다.    
   ◼ 경험:  
-     모든 경험은 경험치가 됩니다.      
+  . 모든 경험은 경험치가 됩니다.      
   ◼ 도전:     
-     도전은 발전의 밑바탕이 됩니다.  
+  . 도전은 발전의 밑바탕이 됩니다.  
   ◼ 재미:   
-     재미있는 일은 깊은 몰입의 원천입니다.
-    
-    
+  . 재미있는 일은 깊은 몰입의 원천입니다.
+      
+
 
 
 intro: 
@@ -46,7 +48,7 @@ feature_row:
     title: "Alone"
     excerpt: |
       PROJECT-A  
-      2018 제작
+      공포 / 2018 
     url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
@@ -56,7 +58,7 @@ feature_row:
     title: "The Fins"
     excerpt: |
       PROJECT-A  
-      2019 제작
+      전략디펜스 / 2019 
     url: "/thefins/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
@@ -66,7 +68,7 @@ feature_row:
     title: "DayDream"
     excerpt: |
       PROJECT-A  
-      2020 제작
+      액션 / 2020 
     url: "/daydream/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
@@ -83,10 +85,43 @@ feature_row:
     title: "火炎焱燚"
     excerpt: |
       CAPCOM 인턴십 프로그램   
-      2020 제작 
+      미니게임 / 2020  
     url: "/firegame/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
+
+  - image_path: /assets/images/newsims_logo.png
+    alt: "newsims image"
+    title: "NEWSIMS"
+    excerpt: |
+      게임개발동아리   
+      시뮬레이션 / 2019 
+    url: "/newsims/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
+
+  - image_path: /assets/images/turnin_logo.png
+    alt: "turnin image"
+    title: "Turn_in"
+    excerpt: |
+      학교 프로젝트
+      공포 / 2019 
+    url: "/newsims/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
+
+
+  - image_path: https://user-images.githubusercontent.com/45874696/152932309-5f6f26d7-a146-4b02-8a05-bca7e288d17e.png
+    alt: "goblin image"
+    title: "Rhythm Goblin"
+    excerpt: |
+      학교 프로젝트   
+      리듬 / 2017 
+    url: "/rhythmgoblin/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
+
+
 
   - image_path: /assets/images/a_logo.png
     alt: "more Image"
