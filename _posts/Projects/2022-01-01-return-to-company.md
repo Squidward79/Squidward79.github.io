@@ -23,6 +23,8 @@ toc: true
  
  --- 
 
+## 🔸 스크린 샷
+
 <div>
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117458-b53a9700-f21d-11e9-9e04-470e84b9a94c.JPG">
 <img width="350" src = "https://user-images.githubusercontent.com/45874696/67117457-b4a20080-f21d-11e9-8590-10dc805fb49d.JPG">
