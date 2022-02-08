@@ -40,7 +40,7 @@ intro:
       게임 개발자분들의 강연을 듣고 이야기를 나누며 게임 개발에 관한 것을 보고 듣고 있습니다. 
       <br>   
       재미있는 일에는 하루가 가는줄도 모르고 집중하는 편인데, 재미난 일을 하며 살아가는 것에 대한 로망이 있습니다!   
-
+      <br>
 
 feature_row:
  
@@ -147,11 +147,18 @@ feature_row:
 feature_row2:
   - image_path: https://user-images.githubusercontent.com/45874696/152729024-aad5fe06-9293-46fb-ad3d-719bb857525f.png
     alt: "final project iamge"
-    title: "졸업작품 프로젝트"
+    title: "MR환경에서 가상 런치패드의 연주와 사운드 시각화"
     excerpt: |
-      현실과 가상공간이 섞인 혼합현실(Mixed Reality) 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램입니다. Vive Pro와 Unity, Android로 개발하였으며 크게 공간인식, 악기연주, 상호작용으로 구분됩니다.  
-      우선 Vive의 depth카메라를 통해 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다. 그런 다음 눈앞에 놓여진 가상의 악기를 컨트롤러를 이용해 특정 곡을 연주하고 또 자신의 연주를 녹음할 수 있습니다. 녹음한 파일을 재생시키면 음악의 파형을 읽어 공간에 파티클이 이퀄라이저처럼 뿌려지게 됩니다.  
-      이 파티클 이펙트는 현실 기반으로 생성된 Mesh와 충돌하여 상호작용하여 실제 공간에 3D 파티클이 부딪히는 것처럼 느껴지게 됩니다. 또한 포톤 서버를 이용하여 모바일 어플리케이션과 동시에 합주도 가능합니다.   
+      ◼ 프로젝트 기간  
+      2019.03 ~ 2019.06
+      <br>
+      ◼ 사용한 툴  
+      Unity / Vive Pro / 포톤 서버 
+      <br>
+      ◼ 개요  
+      현실과 가상공간이 섞인 혼합현실(Mixed Reality) 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램    
+      가상의 악기를 컨트롤러로 연주하고, 공간을 인식하여 Mesh를 생성하고, 음악에 맞춰 생성된 파티클이 현실공간과 상호작용  
+      Android에서 전용 어플리케이션으로 Vive와 연동하여 합주 가능  
 
     url: https://youtu.be/-OGZLCGC9AE
     btn_label: "영상 보기"
@@ -164,14 +171,14 @@ feature_row3:
     alt: "raycasting image"
     title: "RayCasting 구현 프로그램"
     excerpt: |
-      ◼ 프로젝트 기간
-      2019.04.19 ~ 2019.05.14
+      ◼ 프로젝트 기간  
+      2019.04.19 ~ 2019.05.14  
       <br>
-      ◼ 사용한 툴
+      ◼ 사용한 툴  
       C++ / OpenGL
       <br>
-      ◼ 개요
-      사람의 단층촬영 볼륨 데이터를 읽어들여 3D모델이미지로 보여주는 RayCasting 구현 프로그램
+      ◼ 개요  
+      사람의 단층촬영 볼륨 데이터를 읽어들여 3D모델이미지로 보여주는 RayCasting 구현 프로그램  
 
     url: https://github.com/Squidward79/RayCasting_program
     btn_label: "자세히 보기"
@@ -182,15 +189,15 @@ feature_row4:
     alt: "cuda image"
     title: "CUDA 병렬프로그래밍"
     excerpt: |
-      ◼ 프로젝트 기간
+      ◼ 프로젝트 기간  
       2019.06 ( 약 2주 )
       <br>
-      ◼ 사용한 툴
+      ◼ 사용한 툴  
       C++ / CUDA / OpenCV
       <br>
-      ◼ 개요
-      고속도로 주행영상에 대한 차선검출 프로그램의 병렬 프로그래밍
-      GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트
+      ◼ 개요  
+      고속도로 주행영상에 대한 차선검출 프로그램의 병렬 프로그래밍  
+      GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트  
 
     url: https://github.com/Squidward79/Parallel-programming
     btn_label: "자세히 보기"
