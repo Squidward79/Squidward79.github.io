@@ -89,15 +89,7 @@ feature_row:
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
-  - image_path: /assets/images/newsims_logo.png
-    alt: "newsims image"
-    title: "NEWSIMS"
-    excerpt: |
-      게임개발동아리   
-      시뮬레이션 / 2019 
-    url: "/newsims/"
-    btn_label: "자세히 보기"
-    btn_class: "btn--warning" 
+
 
   - image_path: /assets/images/turnin_logo.png
     alt: "turnin image"
@@ -116,7 +108,7 @@ feature_row:
       학교 프로젝트  
       헌팅액션 / 2019 
     url: https://www.youtube.com/watch?v=TW4zogbzhIc
-    btn_label: "자세히 보기"
+    btn_label: "영상 보기"
     btn_class: "btn--warning" 
 
 
@@ -130,7 +122,15 @@ feature_row:
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
-
+  - image_path: /assets/images/newsims_logo.png
+    alt: "newsims image"
+    title: "NEWSIMS"
+    excerpt: |
+      게임개발동아리   
+      시뮬레이션 / 2019 
+    url: "/newsims/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
 
   - image_path: /assets/images/a_logo.png
     alt: "more Image"
