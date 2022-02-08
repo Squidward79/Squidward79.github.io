@@ -164,7 +164,14 @@ feature_row3:
     alt: "raycasting image"
     title: "RayCasting 구현 프로그램"
     excerpt: |
-      RayCasting으로 구현한, 단층촬영 이미지를 3D모델로 만드는 프로그램입니다. C++와 OpenGL로 작성하였으며 이미지 렌더링을 위한 노말, 투명도, 컬러 계산 등을 구현하였습니다. 3D모델의 투명도를 조절하여 피부와 그 내부의 뼈를 볼 수 있고, 모델을 회전시키는 기능이 있습니다.   
+      ◼ 프로젝트 기간
+      2019.04.19 ~ 2019.05.14
+      <br>
+      ◼ 사용한 툴
+      C++ / OpenGL
+      <br>
+      ◼ 개요
+      사람의 단층촬영 볼륨 데이터를 읽어들여 3D모델이미지로 보여주는 RayCasting 구현 프로그램
 
     url: https://github.com/Squidward79/RayCasting_program
     btn_label: "자세히 보기"
@@ -175,13 +182,20 @@ feature_row4:
     alt: "cuda image"
     title: "CUDA 병렬프로그래밍"
     excerpt: |
-      GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트입니다.   
-      고속도로 주행 동영상의 차선검출 알고리즘으로 비교를 진행하였고 GPU의 병렬 프로그래밍은 NVIDIA사의 CUDA를 사용하였습니다.  
-      그 결과 해당 알고리즘을 처리하는데에는 CPU에 비해 GPU가 약 20배의 성능차이를 보임을 확인할 수 있었습니다. 
+      ◼ 프로젝트 기간
+      2019.06 ( 약 2주 )
+      <br>
+      ◼ 사용한 툴
+      C++ / CUDA / OpenCV
+      <br>
+      ◼ 개요
+      고속도로 주행영상에 대한 차선검출 프로그램의 병렬 프로그래밍
+      GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트
 
     url: https://github.com/Squidward79/Parallel-programming
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
