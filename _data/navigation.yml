@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Blog"
+    url: https://squidward79.github.io/
   - title: "Category"
     url: /categories/
   - title: "Tag"
