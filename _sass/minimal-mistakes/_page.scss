@@ -175,7 +175,7 @@ body {
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0 8em 0; //<수정> 바텀 패딩 추가
+    padding: 5em 0; //<수정> 바텀 패딩 추가
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
