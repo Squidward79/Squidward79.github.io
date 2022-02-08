@@ -111,14 +111,14 @@ feature_row:
     excerpt: |
       학교 프로젝트  
       헌팅액션 / 2019 
-    #url: "/newsims/"
-    #btn_label: "자세히 보기"
-    #btn_class: "btn--warning" 
+    url: https://www.youtube.com/watch?v=TW4zogbzhIc
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
 
 
   - image_path: /assets/images/rhythmgoblin_logo.png
     alt: "goblin image"
-    title: "Rhythm Goblin"
+    title: "리듬 고블린"
     excerpt: |
       학교 프로젝트   
       리듬 / 2017 
@@ -132,8 +132,8 @@ feature_row:
     alt: "more Image"
     title: "More Games"
     excerpt: |
-      그 외 개발에 참여했던  
-      게임들의 모음입니다.
+      개발에 참여했던 게임들의   
+      전체 목록입니다.  
     url: "/categories/gamedev/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
