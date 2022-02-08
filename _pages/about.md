@@ -13,22 +13,17 @@ header:
   #caption: "캡션달기"
 
 excerpt: |+2
-  프로그래머 Lee Homin 입니다.   
-              
-    
+  프로그래머 Lee Homin 입니다.      
+  .                   
   제가 개발에 참여한 게임으로   
   사람들에게 즐거움을 전할 수 있다면   
-  그것이 바로 저의 행복입니다.  
-     
-    
+  그것이 바로 저의 행복입니다.    
+  .   
   제가 추구하는 가치는 세가지 입니다.    
-  ◼ 경험:  
-  . 모든 경험은 경험치가 됩니다.      
-  ◼ 도전:     
-  . 도전은 발전의 밑바탕이 됩니다.  
-  ◼ 재미:   
-  . 재미있는 일은 깊은 몰입의 원천입니다.
-      
+  ◼ 경험: 모든 경험은 경험치가 됩니다.      
+  ◼ 도전: 도전은 발전의 밑바탕이 됩니다.  
+  ◼ 재미: 재미있는 일은 깊은 몰입의 원천입니다.
+  .       
 
 
 
@@ -104,14 +99,24 @@ feature_row:
     alt: "turnin image"
     title: "Turn_in"
     excerpt: |
-      학교 프로젝트
+      학교 프로젝트  
       공포 / 2019 
     url: "/newsims/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
+  - image_path: /assets/images/gradehunter_logo.png
+    alt: "gradehunter image"
+    title: "Grade Hunter"
+    excerpt: |
+      학교 프로젝트  
+      헌팅액션 / 2019 
+    #url: "/newsims/"
+    #btn_label: "자세히 보기"
+    #btn_class: "btn--warning" 
 
-  - image_path: https://user-images.githubusercontent.com/45874696/152932309-5f6f26d7-a146-4b02-8a05-bca7e288d17e.png
+
+  - image_path: /assets/images/rhythmgoblin_logo.png
     alt: "goblin image"
     title: "Rhythm Goblin"
     excerpt: |
@@ -139,10 +144,9 @@ feature_row2:
     alt: "final project iamge"
     title: "졸업작품 프로젝트"
     excerpt: |
-      현실과 가상공간이 섞인 혼합현실(Mixed Reality) 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램입니다.   
-      Vive Pro와 Unity, Android로 개발하였으며 크게 공간인식, 악기연주, 상호작용으로 구분됩니다.
-      우선 Vive의 depth카메라를 통해 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다. 그런 다음 눈앞에 놓여진 가상의 악기를 컨트롤러를 이용해 연주하게 되면 발생하는 오디오 파형에 맞춰 공간에 파티클 이펙트가 발생합니다. 이 파티클 이펙트는 현실 기반으로 생성된 Mesh와 충돌하여 상호작용하여 실제 공간에 3D 파티클이 부딪히는 것처럼 느껴지게 됩니다. 
-      포톤 서버를 이용하여 모바일 어플리케이션과 동시에 합주도 가능합니다.   
+      현실과 가상공간이 섞인 혼합현실(Mixed Reality) 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램입니다. Vive Pro와 Unity, Android로 개발하였으며 크게 공간인식, 악기연주, 상호작용으로 구분됩니다.  
+      우선 Vive의 depth카메라를 통해 주변 공간을 인식하여 현실 기반의 Mesh를 생성합니다. 그런 다음 눈앞에 놓여진 가상의 악기를 컨트롤러를 이용해 특정 곡을 연주하고 또 자신의 연주를 녹음할 수 있습니다. 녹음한 파일을 재생시키면 음악의 파형을 읽어 공간에 파티클이 이퀄라이저처럼 뿌려지게 됩니다.  
+      이 파티클 이펙트는 현실 기반으로 생성된 Mesh와 충돌하여 상호작용하여 실제 공간에 3D 파티클이 부딪히는 것처럼 느껴지게 됩니다. 또한 포톤 서버를 이용하여 모바일 어플리케이션과 동시에 합주도 가능합니다.   
 
     #url: "#test-link"
     #btn_label: "자세히 보기"
