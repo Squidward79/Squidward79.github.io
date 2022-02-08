@@ -20,9 +20,9 @@ excerpt: |+2
   그것이 바로 저의 행복입니다    
   <br>
   제 삶의 중요한 가치는 세가지입니다!   
-  <u "style:text-color:#fff;">경험</u> 모든 경험은 삶의 경험치가 됩니다      
-  <u "style:text-color:#fff;">도전</u> 도전은 발전의 밑바탕입니다  
-  <u "style:text-color:#fff;">재미</u> 재미는 몰입의 원천입니다  
+  <u style="text-color:#fff;">경험</u> 모든 경험은 삶의 경험치가 됩니다      
+  <u style="text-color:#fff;">도전</u> 도전은 발전의 밑바탕입니다  
+  <u style="text-color:#fff;">재미</u> 재미는 몰입의 원천입니다  
 
   
 
