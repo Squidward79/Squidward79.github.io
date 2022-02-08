@@ -13,25 +13,28 @@ header:
   #caption: "캡션달기"
 
 excerpt: |+
-  프로그래머 Lee Homin 입니다.  
-  .    
-  .    
-  .    
-  .    
-  ㅁ    
-  .  
-  .  
-  .  
-  .  
-  .   
+  프로그래머 Lee Homin 입니다.     
+           
+  제가 개발에 참여한 게임으로
+  다른 사람들에게 즐거움을 전할 수 있다면
+  그것이 저의 행복입니다.
+
+  제가 추구하는 가치는 세가지 입니다.    
+  ◼ 경험:
+    - 모든 경험은 경험치가 됩니다.      
+  ◼ 도전:   
+    - 도전은 발전의 밑바탕이 됩니다.
+  ◼ 재미:
+    - 재미있는 일은 깊은 몰입의 원천입니다.   
+  .
   .  
 
 intro: 
-  - title: "경험과 도전은 언제나 즐거운 일이라고 생각합니다."
+  - title: "경험과 도전은 언제나 의미있는 것이라 생각합니다."
     class: wide
     excerpt: |
       2017년부터 프로그래밍을 배우기 시작해 꾸준히 게임개발에 배운 것을 적용하려 노력 중입니다.  
-      현재는 PROJECT-A라는 2인 게임개발팀을 만들어 4년째 매년 작은 게임 프로젝트를 진행하고 있습니다.  
+      현재는 PROJECT-A라는 2인 게임개발팀으로 4년째 매년 여름 작은 게임 프로젝트를 진행하고 있습니다.  
       게임개발은 주로 Unity와 C#을 활용하였고, 엔진 위에서 간단한 개발툴을 만들어 활용하기도 하였습니다.  
 
 feature_row:
@@ -41,12 +44,9 @@ feature_row:
     excerpt: |
       PROJECT-A  
       2018 제작
-
     url: "/alone/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
-    image_align: center
-
 
   - image_path: /assets/images/thefins_logo.png
     alt: "thefins image"
@@ -57,8 +57,6 @@ feature_row:
     url: "/thefins/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
-    image_align: center
-
 
   - image_path: /assets/images/daydream_logo.png
     alt: "daydream Image"
@@ -69,8 +67,6 @@ feature_row:
     url: "/daydream/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
-    image_align: center
-
 
   - image_path: /assets/images/marvelron_logo.png
     alt: "marvelron Image"
@@ -79,20 +75,15 @@ feature_row:
       PROJECT-A  
       2021 ~ 개발중!
 
-    image_align: center
-    
-
   - image_path: /assets/images/firegame_logo.png
     alt: "firegame image"
     title: "火炎焱燚"
     excerpt: |
       CAPCOM 인턴십 프로그램   
       2020 제작 
-
     url: "/firegame/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
-    image_align: center
 
   - image_path: /assets/images/a_logo.png
     alt: "more Image"
@@ -100,12 +91,9 @@ feature_row:
     excerpt: |
       그 외 개발에 참여했던  
       게임들의 모음입니다.
-    
     url: "/categories/gamedev/"
     btn_label: "자세히 보기"
     btn_class: "btn--warning"
-    image_align: center
-
 
 
 feature_row2:
