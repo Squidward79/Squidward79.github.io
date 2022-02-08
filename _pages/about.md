@@ -150,15 +150,16 @@ feature_row2:
     title: "MR환경에서 가상 런치패드의 연주와 사운드 시각화"
     excerpt: |
       ◼ 프로젝트 기간  
-      2019.03 ~ 2019.06
+       2019.03 ~ 2019.06
       <br>
       ◼ 사용한 툴  
-      Unity / Vive Pro / 포톤 서버 
+       Unity / Vive Pro / 포톤 서버 
       <br>
       ◼ 개요  
-      현실과 가상공간이 섞인 혼합현실(Mixed Reality) 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램    
-      가상의 악기를 컨트롤러로 연주하고, 공간을 인식하여 Mesh를 생성하고, 음악에 맞춰 생성된 파티클이 현실공간과 상호작용  
-      Android에서 전용 어플리케이션으로 Vive와 연동하여 합주 가능  
+       혼합현실 환경에서 MIDI악기인 런치패드를 가상으로 연주하는 프로그램.      
+       가상공간에서 악기를 연주할 수 있고, Android에서 전용 어플리케이션으로 Vive와 연동하여 합주 가능.  
+       현실공간을 인식하여 Mesh를 생성하여 음악에 맞춰 생성된 파티클이 현실공간과 상호작용.    
+
 
     url: https://youtu.be/-OGZLCGC9AE
     btn_label: "영상 보기"
@@ -172,13 +173,13 @@ feature_row3:
     title: "RayCasting 구현 프로그램"
     excerpt: |
       ◼ 프로젝트 기간  
-      2019.04.19 ~ 2019.05.14  
+       2019.04 ~ 2019.05
       <br>
       ◼ 사용한 툴  
-      C++ / OpenGL
+       C++ / OpenGL
       <br>
       ◼ 개요  
-      사람의 단층촬영 볼륨 데이터를 읽어들여 3D모델이미지로 보여주는 RayCasting 구현 프로그램  
+       사람의 단층촬영 볼륨 데이터를 읽어들여 3D모델이미지로 보여주는 RayCasting 구현 프로그램.   
 
     url: https://github.com/Squidward79/RayCasting_program
     btn_label: "자세히 보기"
@@ -190,14 +191,14 @@ feature_row4:
     title: "CUDA 병렬프로그래밍"
     excerpt: |
       ◼ 프로젝트 기간  
-      2019.06 ( 약 2주 )
+       2019.06 ( 약 2주 )
       <br>
       ◼ 사용한 툴  
-      C++ / CUDA / OpenCV
+       C++ / CUDA / OpenCV
       <br>
       ◼ 개요  
-      고속도로 주행영상에 대한 차선검출 프로그램의 병렬 프로그래밍  
-      GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트  
+       고속도로 주행영상에 대한 차선검출 프로그램의 병렬 프로그래밍 프로그램.    
+       GPU와 CPU의 영상처리 성능비교를 위해 같은 알고리즘에 대하여 CPU와 병렬처리한 GPU의 처리속도를 비교하는 프로젝트  
 
     url: https://github.com/Squidward79/Parallel-programming
     btn_label: "자세히 보기"
