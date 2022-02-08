@@ -89,7 +89,15 @@ feature_row:
     btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
-
+  - image_path: /assets/images/rhythmgoblin_logo.png
+    alt: "goblin image"
+    title: "리듬 고블린"
+    excerpt: |
+      학교 프로젝트   
+      리듬 / 2017 
+    url: "/rhythmgoblin/"
+    btn_label: "자세히 보기"
+    btn_class: "btn--warning" 
 
   - image_path: /assets/images/turnin_logo.png
     alt: "turnin image"
@@ -109,17 +117,6 @@ feature_row:
       헌팅액션 / 2019 
     url: https://www.youtube.com/watch?v=TW4zogbzhIc
     btn_label: "영상 보기"
-    btn_class: "btn--warning" 
-
-
-  - image_path: /assets/images/rhythmgoblin_logo.png
-    alt: "goblin image"
-    title: "리듬 고블린"
-    excerpt: |
-      학교 프로젝트   
-      리듬 / 2017 
-    url: "/rhythmgoblin/"
-    btn_label: "자세히 보기"
     btn_class: "btn--warning" 
 
   - image_path: /assets/images/newsims_logo.png
