@@ -12,7 +12,7 @@ header:
   #    url: "/terms/"
   #caption: "캡션달기"
 
-excerpt: |+
+excerpt: 
   "프로그래머 Lee Homin 입니다. \n
   \n        
   제가 개발에 참여한 게임으로 \n
