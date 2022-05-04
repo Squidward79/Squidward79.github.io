@@ -30,6 +30,8 @@ sidemenu:
         url: /categories/programmers/
       - title: "- 알고리즘"
         url: /categories/algorithm/
+      - title: "- AtCoder"
+        url: /categories/atCoder/
 
   - title: ETC
     children:
