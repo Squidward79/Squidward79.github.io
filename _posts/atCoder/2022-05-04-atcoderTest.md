@@ -1,42 +1,68 @@
 ---
-title: '[C++풀이] 타겟 넘버'
-excerpt: 프로그래머스 Level 2 - DFS/BFS
+title: '[C#] 002 - Encyclopedia of Parentheses'
+excerpt: AtCoder　競プロ典型 90問　002
 categories:
   - atCoder
 tags:
   - Coding Test
-date: 2021-12-30T00:00:00.000Z
+
 breadcrumb: true
 ---
 
 <div class="notice--warning" markdown=1>
- <span>📄 난이도 : 🟠🟠      </span>
- <span>📄 언어 : C++  </span>
+ <span>📄 難易度 : ⭐⭐⭐      </span>
+ <span>📄 言語 : C#  </span>
 
  </div>
 
-
-
- [📂문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17681?language=cpp)
+ [📂問題](https://atcoder.jp/contests/typical90/tasks/typical90_b)
 
 ***
-##  🔶 풀이법
+##  🔶 解き方
 
-### ✔ 비트연산자를 이용한 풀이
+### ✔ Bit Shiftを利用する
 
-```c++
-    풀이
+```cs
+using System;
+using System.Text;
 
+namespace atCoder.Contest
+{
+    class Q_002_Encyclopedia_of_Parentheses
+    {
+
+        static void Main()
+        {
+            int N = Convert.ToInt32(Console.ReadLine());
+            if (N % 2 == 1) return;
+
+            // (1<<N)演算  == 2^N
+            for (int i = 0; i < (1 << N); i++)
+            {
+                StringBuilder brackets = new StringBuilder();
+                for (int j = N - 1; j > -1; j--)
+                {
+                    // i &(1<<j) は　iのj番目のビットを確認すること
+                    if ((i & (1 << j)) == 0)
+                        brackets.Append('(');
+                    else
+                        brackets.Append(')');
+                }
+
+                int count = 0;
+                for (int k = 0; k < brackets.Length; k++)
+                {
+                    count += brackets[k] == '(' ? 1 : -1;
+                    if (count < 0) break ;
+                }
+
+                if(count == 0)
+                    Console.WriteLine(brackets);
+            }
+        }
+    }
+}
 ```
----
-<br>
-
-#### 👍 핵심 코드
-
----
-<br>
-
-
 
   <small style ="color:gray;">(post-code: categories_sub_01) </small>
  {: .text-right}
